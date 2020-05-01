@@ -224,7 +224,7 @@
          "phase": 2,
          "id": 17111,
          "procchance": 100,
-         "magicdmg": 3,
+         "magicdmg": 3
       },
       {
          "name": "Choker of the Shifting Sands",
@@ -338,7 +338,7 @@
          "ac": 131,
          "source": "Dungeon",
          "phase": 2,
-         "id": 18374,
+         "id": 18374
       },
       {
          "name": "Abyssal Plate Epaulets",
@@ -350,7 +350,7 @@
          "source": "Other",
          "phase": 4,
          "id": 20683,
-         "rand": 2158,
+         "rand": 2158
       },
       {
          "name": "Arathi Plate Spaulders",
@@ -403,7 +403,7 @@
          "ac": 634,
          "source": "BWL",
          "phase": 3,
-         "id": 19394,
+         "id": 19394
       },
       {
          "name": "Dreadnaught Pauldrons",
@@ -993,7 +993,7 @@
          "source": "Other",
          "phase": "4",
          "id": 20687,
-         "rand": 2163,
+         "rand": 2163
       },
       {
          "name": "Battleborn Armbraces",
@@ -1583,7 +1583,7 @@
          "source": "Other",
          "phase": 4,
          "id": 20671,
-         "rand": 2157,
+         "rand": 2157
       },
       {
          "name": "Black Dragonscale Leggings",
@@ -2343,13 +2343,13 @@
          "phase": "3",
          "id": 19289,
          "procchance": 2,
-         "magicdmg": 250,
+         "magicdmg": 250
       },
       {
          "name": "Diamond Flask (Used last 60 seconds)",
          "source": "Quest",
          "phase": "3",
-         "id": 20130,
+         "id": 20130
       },
       {
          "name": "Drake Fang Talisman",
@@ -2364,7 +2364,7 @@
          "name": "Earthstrike (Used last 20 secs)",
          "source": "Quest",
          "phase": "5",
-         "id": 21180,
+         "id": 21180
       },
       {
          "name": "Hand of Justice",
@@ -2381,13 +2381,13 @@
          "phase": "1",
          "id": 22321,
          "procchance": 2,
-         "magicdmg": 165,
+         "magicdmg": 165
       },
       {
          "name": "Jom Gabbar (Used last 20 secs)",
          "source": "AQ40",
          "phase": "5",
-         "id": 23570,
+         "id": 23570
       },
       {
          "name": "Kiss of the Spider (Used last 15 secs)",
@@ -2395,7 +2395,7 @@
          "hit": 1,
          "source": "Naxx",
          "phase": "6",
-         "id": 22954,
+         "id": 22954
       },
       {
          "name": "Rune of the Guard Captain",
@@ -2417,7 +2417,7 @@
          "ap": 64,
          "source": "Naxx",
          "phase": "6",
-         "id": 23041,
+         "id": 23041
       }
    ],
    "ranged": [
@@ -2897,7 +2897,7 @@
          "source": "ZG",
          "phase": 4,
          "id": 19921,
-         "rand": 193,
+         "rand": 193
       },
       {
          "name": "Zulian Hacker of the Tiger",
@@ -3259,7 +3259,7 @@
          "ppm": 1,
          "phase": 1,
          "id": 18203,
-         "procspell": "Eskhandar",
+         "procspell": "Eskhandar"
       },
       {
          "name": "R14 Claw (MH)",
@@ -3377,7 +3377,7 @@
          "ppm": 1.1,
          "phase": 2,
          "id": 17112,
-         "procspell": "Empyrean",
+         "procspell": "Empyrean"
       },
       {
          "id": 11684,
@@ -3915,7 +3915,7 @@
          "ppm": 0.5,
          "phase": 1,
          "id": 17075,
-         "physdmg": 240,
+         "physdmg": 240
       },
       {
          "name": "Protector's Sword",
@@ -3951,7 +3951,7 @@
          "phase": 1,
          "id": 18683,
          "str": 7,
-         "sta": 12,
+         "sta": 12
       }
    ],
    "offhand": [
@@ -4125,7 +4125,7 @@
          "source": "ZG",
          "phase": 4,
          "id": 19921,
-         "rand": 193,
+         "rand": 193
       },
       {
          "name": "Zulian Hacker of the Tiger",
@@ -4139,7 +4139,7 @@
          "source": "ZG",
          "phase": 4,
          "id": 199211,
-         "rand": 690,
+         "rand": 690
       },
       {
          "name": "Alcor's Sunrazor",
@@ -4980,7 +4980,7 @@
          "phase": 1,
          "id": 18683,
          "str": 7,
-         "sta": 12,
+         "sta": 12
       }
    ],
    "twohand": [
@@ -5006,7 +5006,7 @@
         "phase": 1,
         "type": "Axe",
         "physdmg": 250,
-        "ppm": 1,
+        "ppm": 1
      },
      {
         "name": "Dark Edge of Insanity",
@@ -5045,7 +5045,7 @@
         "phase": 3,
         "type": "Axe",
         "physdmg": 240,
-        "ppm": 1,
+        "ppm": 1
      },
      {
         "name": "Dreadforge Retaliator",
@@ -5116,7 +5116,7 @@
         "phase": 6,
         "type": "Axe",
         "ppm": 1,
-        "magicdmg": 152,
+        "magicdmg": 152
      },
      {
         "name": "Nightfall",
@@ -5162,7 +5162,7 @@
         "phase": 1,
         "type": "Axe",
         "physdmg": 100,
-        "ppm": 1,
+        "ppm": 1
      },
      {
         "name": "Treant's Bane",
@@ -5296,7 +5296,7 @@
         "phase": 4,
         "type": "Mace",
         "physdmg": 210,
-        "ppm": 1,
+        "ppm": 1
      },
      {
         "name": "Might of Menethil",
@@ -5333,7 +5333,7 @@
         "phase": 1,
         "type": "Mace",
         "ppm": 0.7,
-        "magicdmg": 333,
+        "magicdmg": 333
      },
      {
         "name": "Sulfuron Hammer",
@@ -5345,7 +5345,7 @@
         "phase": 1,
         "type": "Mace",
         "ppm": 1,
-        "magicdmg": 101,
+        "magicdmg": 101
      },
      {
         "name": "The Unstoppable Force",
@@ -5407,7 +5407,7 @@
         "phase": 1,
         "type": "Polearm",
         "physdmg": 432,
-        "ppm": 1,
+        "ppm": 1
      },
      {
         "name": "Halberd of Smiting",
@@ -5419,7 +5419,7 @@
         "phase": 4,
         "type": "Polearm",
         "physdmg": 564,
-        "ppm": 1,
+        "ppm": 1
      },
      {
         "name": "Huntsman's Harpoon",
@@ -5479,7 +5479,7 @@
         "phase": 1,
         "type": "Polearm",
         "ppm": 1,
-        "magicdmg": 200,
+        "magicdmg": 200
      },
      {
         "name": "Peacemaker",
@@ -5624,7 +5624,7 @@
         "phase": 6,
         "type": "Sword",
         "magicdmg": 200,
-        "ppm": 1,
+        "ppm": 1
      },
      {
         "name": "Darkstone Claymore",
@@ -5675,7 +5675,7 @@
         "phase": 5,
         "type": "Sword",
         "magicdmg": 258,
-        "ppm": 1,
+        "ppm": 1
      },
      {
         "name": "Manslayer of the Qiraji",
