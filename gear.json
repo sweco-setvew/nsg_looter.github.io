@@ -1,526 +1,526 @@
-rand;ac;procchance;ppm;ap;defense;crit;skill;speed;id;slot;physdmg;offhand;source;type;dodge;hit;magicdmg;parry;Mainhand;phase;procspell;name;agi;maxdmg;procextra;str;sta;mindmg
-;;;;;;2;;;12587;head;;;Dungeon;;;;;;;1;;Eye of Rend;;;;13;7;
-;175;;;;;;6;;20623;head;;;Emeriss;Dagger;;;;;;4;;Circlet of Restless Dreams;21;;;;38;
-;739;;;;6;;;;21329;head;;;AQ40;;;;;;;5;;Conqueror's Crown;18;;;29;34;
-;392;;;44;;2;;;18817;head;;;MC;;;;;;;1;;Crown of Destruction;;;;;23;
-;800;;;;14;;;;22418;head;;;Naxx;;1;;;;;6;;Dreadnaught Helmet;;;;21;45;
-;95;;;;;;7;;9375;head;;;Other;Axe;;;;;;1;;Expert Goldminer's Helmet;5;;;;6;
-;445;;;;;1;;;20521;head;;;Quest;;;1;;;;3;;Fury Visor;;;;18;;
-;661;;;;7;;;;21460;head;;;AQ20;;;;;1;;5;;Helm of Domination;11;;;21;28;
-;679;;;;;;;;19372;head;;;BWL;;;;;;;3;;Helm of Endless Rage;26;;;26;29;
-;556;;;;;1;;;21999;head;;;Quest;;;;;;;5;;Helm of Heroism;;;;18;32;
-;608;;;;7;;;;16866;head;;;MC;;1;;;;;1;;Helm of Might;;;;15;35;
-;534;;;;;;;;22411;head;;;Dungeon;;;2;;;;1;;Helm of the Executioner;;;;14;20;
-;526;;;;;;;;16731;head;;;Dungeon;;;;;;;1;;Helm of Valor;9;;;15;23;
-;696;;;;11;;;;16963;head;;;Onyxia;;;;;;;1;;Helm of Wrath;;;;17;40;
-;565;;;;;2;;;12640;head;;;Crafting;;;2;;;;1;;Lionheart Helm;;;;18;;
-;123;;;;;1;;;13404;head;;;Dungeon;;;2;;;;1;;Mask of the Unforgiven;;;;;12;
-;598;;;;;1;;;23314;head;;;PVP;;;1;;;;2;;R10 Plate Helm;;;;21;24;
-;719;;;;;1;;;16478;head;;;PVP;;;;;;;2;;R13 Plate Helm;;;;28;34;
-;;;;;;;;;19491;neck;;;Quest;;;;;;;3;;Amulet of the Darkmoon;19;;;10;10;
-;;;;44;;1;;;21664;neck;;;AQ40;;;;;;;5;;Barbed Choker;;;;;10;
-;;;;24;;;;;22150;neck;;;Quest;;;1;;;;5;;Beads of Ogre Might;;;;;7;
-;;100;;;;;;;17111;neck;;;Kazzak;;;;3;;;2;;Blazefury Medallion;14;;;;13;
-;;;;42;;;;;21505;neck;;;AQ20;;;;;;;5;;Choker of the Shifting Sands;;;;;16;
-;;;;;;1;;;18205;neck;;;Onyxia;;1;;;;;1;;Eskhandar's Collar;;;;;17;
-;;;;;;1;;;21809;neck;;;AQ20;;;1;;;;5;;Fury of the Forgotten Swarm;;;;8;;
-;;;;32;;;;;11933;neck;;;Dungeon;;;;;;;1;;Imperial Jewel;;;;;7;
-;;;;26;;1;;;15411;neck;;;Quest;;;;;;;1;;Mark of Fordring;;;;;;
-;;;;;;1;;;18404;neck;;;Onyxia;;;1;;;;1;;Onyxia Tooth Pendant;12;;;;9;
-;;;;;;;;;22340;neck;;;Dungeon;;;1;;;;5;;Pendant of Celerity;15;;;;;
-;;;;;;;;;19377;neck;;;BWL;;;1;;;;3;;Prestor's Talisman of Connivery;30;;;;;
-;;;;20;;1;;;23023;neck;;;Naxx;;;;;;;6;;Sadist's Collar;;;;;24;
-;;;;26;;2;;;23053;neck;;;Naxx;;;;;;;6;;Stormrage's Talisman of Seething;;;;;12;
-;;;;40;;1;;;19856;neck;;;ZG;;;;;;;4;;The Eye of Hakkar;;;;;;
-;;;;30;;;;;17044;neck;;;Quest;;;;;;;1;;Will of the Martyr;;;;;10;
-;131;;;;;;;;18374;shoulder;;;Dungeon;;;;;;;2;;Flamescarred Shoulders;12;;;12;11;
-2158;530;;;;;;;;20683;shoulder;;;Other;;;1;;;;4;;Abyssal Plate Epaulets;13;;;13;13;
-;553;;;;;;;;20212;shoulder;;;PVP;;;;;;;4;;Arathi Plate Spaulders;17;;;18;20;
-;266;;;40;;;;;15051;shoulder;;;Crafting;;;;;;;1;;Black Dragonscale Shoulders;;;;;9;
-;552;;;;3;;;;19878;shoulder;;;ZG;;;;;;;4;;Bloodsoaked Pauldrons;11;;;16;16;
-;659;;;;4;;;;21330;shoulder;;;AQ40;;;1;;;;5;;Conqueror's Spaulders;16;;;20;21;
-;634;;;;;;;;19394;shoulder;;;BWL;;1;;;;;3;;Drake Talon Pauldrons;20;;;20;17;
-;722;;;;9;;;;22419;shoulder;;;Naxx;;;1;;;;6;;Dreadnaught Pauldrons;;;;16;29;
-;562;;;;5;;;;16868;shoulder;;;MC;;;;;;;1;;Pauldrons of Might;;;;15;22;
-;650;;;;9;;;;21639;shoulder;;;AQ40;;1;;;;;5;;Pauldrons of the Unrelenting;;;;11;30;
-;642;;;;7;;;;16961;shoulder;;;BWL;;;;;;;3;;Pauldrons of Wrath;;;;13;27;
-;530;;;;7;;;;21805;shoulder;;;AQ20;;;;;;;5;;Polished Obsidian Pauldrons;;;;16;17;
-;552;;;;;1;;;23315;shoulder;;;PVP;;;;;;;2;;R10 Plate Shoulders;;;;17;18;
-;626;;;;;;;;16480;shoulder;;;PVP;;;1;;;;2;;R13 Plate Shoulders;16;;;18;23;
-;410;;;;;;;;20517;shoulder;;;Quest;;;1;;;;3;;Razorsteel Shoulders;10;;;10;9;
-;507;;;;;;;;22001;shoulder;;;Quest;;;;;;;5;;Spaulders of Heroism;12;;;12;18;
-;470;;;;;;;;16733;shoulder;;;Dungeon;;;;;;;1;;Spaulders of Valor;9;;;11;17;
-;129;;;24;;;;;12927;shoulder;;;Dungeon;;;2;;;;1;;Truestrike Shoulders;;;;;;
-;113;;;;;;;;12082;shoulder;;;Quest;;;2;;;;1;;Wyrmhide Spaulders;;;;;;
-;57;;;50;;;;;19398;back;;;BWL;;;;;;;3;;Cloak of Firemaw;;;;;12;
-;45;;;20;;;;;13340;back;;;Dungeon;;;;;;;1;;Cape of the Black Baron;15;;;;;
-;56;;;;;;;;21701;back;;;AQ40;;;1;;;;5;;Cloak of Concentrated Hatred;16;;;11;15;
-;54;;;;;;;;19436;back;;;BWL;;;;;;;3;;Cloak of Draconic Might;16;;;16;4;
-;66;;;;;;;;21710;back;;;AQ40;;;;;;;5;;Cloak of the Fallen God;26;;;11;15;
-;59;;;;6;;;;21621;back;;;AQ40;;;;;;;5;;Cloak of the Golden Hive;10;;;13;19;
-;50;;;34;;;;;20073;back;;;PVP;;;;;;;4;;Cloak of the Honor Guard;5;;;;11;
-;63;;;30;;;;;23030;back;;;Naxx;;;1;;;;6;;Cloak of the Scourge;;;;;23;
-;57;;;;;;;;17102;back;;;MC;;;;;;;1;;Cloak of the Shrouded Mists;22;;;;12;
-;116;;;;;;;;17107;back;;;MC;;;;;;;1;;Dragon's Blood Cape;;;;9;22;
-;52;;;;;;;;21394;back;;;AQ20;;;1;;;;5;;Drape of Unyielding Strength;9;;;15;9;
-;44;;;;;;;;21187;back;;;Quest;;;1;;;;5;;Earthweave Cloak;15;;;;;
-;51;;;;;1;;;18204;back;;;Kazzak;;;;;;;2;;Eskhandar's Pelt;;;;;20;
-;114;;;;;;;;18689;back;;;Dungeon;;;;;;;1;;Phantasmal Cloak;;;;12;11;
-;54;;;40;;;;;18541;back;;;Azuregos;;;1;;;;2;;Puissant Cape;;;;;12;
-;135;;;;6;;;;21456;back;;;AQ20;;1;;;;;5;;Sandstorm Cloak;;;;12;12;
-;68;;;50;;1;;;23045;back;;;Naxx;;;;;;;6;;Shroud of Dominion;;;;;11;
-;43;;;;;;;;13397;back;;;Dungeon;;;;;;;1;;Stoneskin Gargoyle Cape;8;;;7;14;
-;43;;;24;;;;;19084;back;;;PVP;;;;;;;2;;Stormpike Soldier's Cloak;;;;;11;
-;48;;;;;;;;19907;back;;;ZG;;;1;;;;4;;Zulian Tigerhide Cloak;13;;;;10;
-;50;;;;;;;;20691;back;;;Other;;;;;;;4;;Windshear Cape;15;;;8;14;
-;344;;;50;;;;;15050;chest;;;Crafting;;;;;;;1;;Black Dragonscale Breastplate;;;;;8;
-;381;;;;;2;;;19690;chest;;;ZG;;;;;;;4;;Bloodsoul Breastplate;9;;;;13;
-;824;;;;;1;;;21814;chest;;;AQ40;;;1;;;;4;;Breastplate of Annihilation;;;;37;13;
-;190;;;;;2;;;12757;chest;;;Quest;;1;;;;;1;;Breastplate of Bloodthirst;;;;13;20;
-;684;;;;;;;;21997;chest;;;Quest;;;1;;;;5;;Breastplate of Heroism;13;;;21;26;
-;749;;;;7;;;;16865;chest;;;MC;;;;;;;1;;Breastplate of Might;;;;20;28;
-;706;;;;;;;;12895;chest;;;Quest;;;;;;;1;;Breastplate of the Chromatic Flight;10;;;20;30;
-;657;;;;;;;;16730;chest;;;Dungeon;;;;;;;1;;Breastplate of Valor;10;;;15;24;
-;857;;;;11;;;;16966;chest;;;BWL;;;;;;;3;;Breastplate of Wrath;;;;17;40;
-;172;;;60;;;;;14637;chest;;;Dungeon;;;;;;;1;;Cadaverous Armor;8;;;8;;
-;985;;;;6;;;;21331;chest;;;AQ40;;;;;;;5;;Conqueror's Breastplate;24;;;34;38;
-;338;;;;;2;;;11926;chest;;;Dungeon;;;;;;;1;;Deathdealer Breastplate;;;;8;8;
-;411;;;;;2;;;23226;chest;;;Naxx;;;;;;;6;;Ghoul Skin Tunic;;;;40;22;
-;814;;;;;;;;19405;chest;;;BWL;;;;;;;3;;Malfurion's Blessed Bulwark;;;;40;22;
-;311;;;76;;1;;;22191;chest;;;AQ20;;;;;;;5;;Obsidian Mail Tunic;;;;;;
-;365;;;;;1;;;18530;chest;;;Dungeon;;;;;;;2;;Ogre Forged Hauberk;20;;;8;13;
-;953;;;;;1;;;23000;chest;;;Naxx;;;1;;;;6;;Plated Abomination Ribcage;;;;45;25;
-;875;;;;;1;;;16477;chest;;;PVP;;;;;;;2;;R13 Plate Armor;14;;;16;33;
-;706;;;;;1;;;23300;chest;;;PVP;;;;;;;2;;R8 Plate Armor;;;;21;23;
-;416;;;58;;1;;;19904;chest;;;ZG;;;;;;;4;;Runed Bloodstained Hauberk;;;;;19;
-;369;;;;;2;;;11726;chest;;;Dungeon;;;;;;;1;;Savage Gladiator Chain;14;;;13;13;
-;828;;;;4;;;;19822;chest;;;ZG;;;;;;;4;;Zandalar Vindicator's Breastplate;15;;;23;24;
-;174;;;;;2;;;13944;chest;;;Dungeon;;;;;;;1;;Tombstone Breastplate;;;;10;10;
-;229;;;;;;;;21680;chest;;;AQ40;;;;;;;5;;Vest of Swift Execution;41;;;21;20;
-2163;309;;;;;;;;20687;wrist;;;Other;;;;;;;4;;Abyssal Plate Vambraces;11;;;11;12;
-;287;;;;;1;;;12936;wrist;;;Dungeon;;;1;;;;1;;Battleborn Armbraces;;;;;;
-;323;;;;;;;;19578;wrist;;;PVP;;;;;;;3;;Berserker Bracers;8;;;19;11;
-;375;;;;;;;;16959;wrist;;;BWL;;;;;;;2;;Bracelets of Wrath;;;;13;27;
-;356;;;;;;;;21457;wrist;;;AQ20;;;;;;;5;;Bracers of Brutality;12;;;21;9;
-;296;;;;3;;;;21996;wrist;;;Quest;;;;;;;5;;Bracers of Heroism;5;;;9;14;
-;328;;;;;;;;16861;wrist;;;MC;;;;;;;1;;Bracers of Might;;;;11;23;
-;261;;;;;;;;16735;wrist;;;Dungeon;;;;;;;1;;Bracers of Valor;3;;;7;14;
-;309;;;;;;;;21184;wrist;;;Quest;;;;;;;5;;Deeprock Bracers;10;;;19;8;
-;287;;;;;;;;18533;wrist;;;Dungeon;;;;;;;2;;Gordok Bracers of Power;;;;17;7;
-;384;;;;;;;;21618;wrist;;;AQ40;;;;;;;5;;Hive Defiler Wristguards;18;;;23;;
-;103;;;;;;;;21602;wrist;;;AQ40;;;1;;;;5;;Qiraji Execution Bracers;16;;;15;14;
-;87;;;;;;;;21491;wrist;;;AQ20;;;;;;;5;;Scaled Bracers of the Gorger;15;;;10;8;
-;304;;;;;;;;19824;wrist;;;ZG;;;;;;;4;;Zandalar Vindicator's Armguards;13;;;13;13;
-;270;;;;;1;;;13400;wrist;;;Dungeon;;;;;;;1;;Vambraces of the Sadist;;;;6;7;
-;86;;;;;;;;19146;wrist;;;MC;;;;;;;1;;Wristguards of Stability;;;;24;8;
-;198;;;;;;;;18812;wrist;;;MC;;;1;;;;1;;Wristguards of True Flight;19;;;;11;
-;407;;;;;1;;;22936;wrist;;;Naxx;;;;;;;6;;Wristguards of Vengeance;;;;24;10;
-;130;;;;;1;5;;18823;hands;;;MC;Dagger;;;;;;1;;Aged Core Leather Gloves;;;;15;15;
-;103;;;28;;1;;;15063;hands;;;Crafting;;;;;;;1;;Devilsaur Gauntlets;;;;;9;
-;201;;;;;;7;;14551;hands;;;Other;Varied;;;;;;1;;Edgemaster's Handguards;;;;;;
-;488;;;54;;1;;;19143;hands;;;MC;;;;;;;1;;Flameguard Gauntlets;;;;;13;
-;615;;;;;1;;;21581;hands;;;AQ40;;;1;;;;5;;Gauntlets of Annihilation;;;;35;15;
-;393;;;;;1;;;21998;hands;;;Quest;;;;;;;5;;Gauntlets of Heroism;;;;18;12;
-;468;;;;5;;;;16863;hands;;;MC;;;1;;;;1;;Gauntlets of Might;;;;22;17;
-;535;;;;9;;;;21674;hands;;;AQ40;;;;;;;5;;Gauntlets of Steadfast Determination;18;;;19;20;
-;482;;;;5;;;;21479;hands;;;AQ20;;;;;1;;5;;Gauntlets of the Immovable;;;;15;18;
-;386;;;;;;;;16737;hands;;;Dungeon;;;;;;;1;;Gauntlets of Valor;3;;;17;10;
-;535;;;;7;;;;16964;hands;;;BWL;;;;;1;;3;;Gauntlets of Wrath;;;;15;20;
-;140;;;;;;;;21672;hands;;;AQ40;;;1;;;;5;;Gloves of Enforcement;20;;;28;6;
-;532;;;;;1;;;16484;hands;;;PVP;;;;;;;2;;R12 Plate Gauntlets;;;;20;23;
-;429;;;;;;;;23286;hands;;;PVP;;;;;;;2;;R7 Gauntlets;;;;17;17;
-;398;;;;;1;;;13162;hands;;;Dungeon;;;;;;;1;;Reiver Claws;;;;9;15;
-;441;;;;;1;;;22714;hands;;;ZG;;;1;;;;4;;Sacrificial Gauntlets;;;;19;;
-;441;;;;;1;;;12639;hands;;;Crafting;;;;;1;;1;;Stronghold Gauntlets;;;;;12;
-;221;;;;;;;;13963;hands;;;Quest;;;2;;;;1;;Voone's Vice Grips;9;;;;6;
-;279;;;44;;1;;;19157;hands;;;Crafting;;;;;;;3;;Chromatic Gauntlets;;;;;;
-;369;;;;;1;;;20204;waist;;;PVP;;;;;;;2;;Arathi Plate Girdle;;;;17;10;
-;380;;;;7;;;;21994;waist;;;Quest;;;;;;;5;;Belt of Heroism;9;;;15;12;
-;412;;;;5;;;;16864;waist;;;MC;;1;;;;;1;;Belt of Might;;;;21;15;
-;142;;;64;;1;;;21586;waist;;;AQ40;;;1;;;;5;;Belt of Never-ending Agony;;;;;20;
-;108;;;;;;;;20216;waist;;;ZG;;;1;;;;4;;Belt of Preserved Heads;15;;;14;11;
-;408;;;;;;;;20213;waist;;;ZG;;;;;;;4;;Belt of Shrunken Heads;7;;;23;11;
-;494;;;;5;;;;21503;waist;;;AQ20;;;;;;;5;;Belt of the Sand Reaver;;;;17;18;
-;341;;;;;;;;16736;waist;;;Dungeon;;;;;;;1;;Belt of Valor;7;;;14;8;
-;369;;;;;;;;13142;waist;;;Dungeon;;;1;;;;1;;Brigam Girdle;;;;15;16;
-;536;;;;;1;;;23219;waist;;;Naxx;;;1;;;;6;;Girdle of the Mentor;20;;;21;21;
-;98;;;;;1;5;;18505;waist;;;Dungeon;Dagger;;;;;;2;;Mugger's Belt;;;;;16;
-;353;;;;;1;;;13959;waist;;;Quest;;;;;;;1;;Omokk's Girth Restrainer;;;;15;9;
-;353;;;;;;;;19087;waist;;;PVP;;;;;;;2;;Frostwolf Plate Belt;7;;;18;8;
-;494;;;;;1;;;19137;waist;;;MC;;;1;;;;1;;Onslaught Girdle;;;;31;11;
-;258;;;;;1;;;21463;waist;;;AQ20;;;1;;;;5;;Ossirian's Binding;20;;;;19;
-;512;;;;8;;;;21598;waist;;;AQ40;;;;;1;;5;;Royal Qiraji Belt;13;;;13;22;
-;391;;;;;1;;;19823;waist;;;ZG;;;;;;;4;;Zandalar Vindicator's Belt;;;;25;10;
-;295;;;44;;1;;;19380;waist;;;BWL;;;;;;;3;;Therazane's Link;;;;;22;
-;476;;;;;;;;21692;waist;;;AQ40;;;;;;;5;;Triad Girdle;19;;;26;17;
-;482;;;;7;;;;16960;waist;;;BWL;;;;;;;3;;Waistband of Wrath;;;;20;20;
-2157;566;;;;;1;;;20671;legs;;;Other;;;;;;;4;;Abyssal Plate Legplates;15;;;15;15;
-;320;;;54;;;;;15052;legs;;;Crafting;;;;;;;1;;Black Dragonscale Leggings;;;;;8;
-;154;;;;;1;;;12963;legs;;;Dungeon;;2;1;;;;1;;Blademaster Leggings;5;;;;;
-;674;;;;10;;;;19855;legs;;;ZG;;;;;;;4;;Bloodsoaked Legplates;;;;36;21;
-;150;;;52;;;;;14638;legs;;;Dungeon;;;;;;;1;;Cadaverous Leggings;;;;;18;
-;617;;;0;;;;;14554;legs;;;Other;;;;;;;1;;Cloudkeeper Legplates (Used last 30 secs);20;;;20;20;
-;617;;;0;;;;;145541;legs;;;Other;;;;;;;1;;Cloudkeeper Legplates (Not used);20;;;20;20;
-;796;;;;6;;;;21332;legs;;;AQ40;;;1;;;;5;;Conqueror's Legguards;21;;;33;24;
-;296;;;48;;2;;;20627;legs;;;Lethon;;;;;;;4;;Dark Heart Pants;;;;;20;
-;148;;;46;;1;;;15062;legs;;;Crafting;;;;;;;1;;Devilsaur Leggings;;;;;12;
-;566;;;;;1;;;18380;legs;;;Dungeon;;;;;;;2;;Eldritch Reinforced Legplates;9;;;15;20;
-;548;;;;;;;;13498;legs;;;Dungeon;;;;;;;1;;Handcrafted Mastersmith Leggings;;;;29;12;
-;211;;;;;2;;;23071;legs;;;Naxx;;;;;;;6;;Leggings of Apocalypse;31;;;15;23;
-;740;;;;;;;;19402;legs;;;BWL;;;;;;;3;;Legguards of the Fallen Crusader;22;;;28;22;
-;815;;;;;2;;;23068;legs;;;Naxx;;;;;;;6;;Legplates of Carnage;;;;42;18;
-;601;;;;5;;;;22000;legs;;;Quest;;;;;;;5;;Legplates of Heroism;11;;;25;16;
-;655;;;;7;;;;16867;legs;;;MC;;;;;1;;1;;Legplates of Might;;;;24;23;
-;644;;;;;2;;;21495;legs;;;AQ20;;;;;;;5;;Legplates of the Qiraji Command;;;;20;13;
-;557;;;;;;;;16732;legs;;;Dungeon;;;;;;;1;;Legplates of Valor;11;;;23;15;
-;749;;;;11;;;;16962;legs;;;MC;;2;;;;;1;;Legplates of Wrath;;;;19;27;
-;743;;;;;2;;;16479;legs;;;PVP;;;1;;;;2;;R12 Plate Legguards;;;;20;28;
-;618;;;;;2;;;23301;legs;;;PVP;;;;;;;2;;R8 Plate Leggings;;;;12;17;
-;427;;;62;;2;;;21651;legs;;;AQ40;;;;;;;5;;Scaled Sand Reaver Leggings;;;;;23;
-;646;;;;;1;;;22672;legs;;;PVP;;;1;;;;6;;Sentinel's Plate Legguards;;;;28;27;
-;598;;;;;1;;;22385;legs;;;Crafting;;;2;;;;5;;Titanic Leggings;;;;30;;
-;452;;;;;;;;20208;feet;;;PVP;;;;;;;4;;Arathi Plate Greaves;12;;;14;12;
-;;;;;;;;;12555;feet;;;Other;;;;;;;1;;Battlechaser's Greaves;13;;;14;8;
-;270;;;28;;;;;16984;feet;;;Crafting;;;;;;;1;;Black Dragonscale Boots;;;;;10;
-;129;;;;;;;;19906;feet;;;ZG;;;1;;;;4;;Blooddrenched Footpads;21;;;;10;
-;247;;;;;;;;14616;feet;;;Dungeon;;;1;;;;1;;Bloodmail Boots;9;;;9;10;
-;470;;;;;;;;21995;feet;;;Quest;;;1;;;;5;;Boots of Heroism;;;;20;20;
-;581;;;;;;;;21688;feet;;;AQ40;;;1;;;;5;;Boots of the Fallen Hero;14;;;20;22;
-;286;;;44;;;;;19381;feet;;;BWL;;;2;;;;3;;Boots of the Shadow Flame;;;;;22;
-;138;;;;;;;;21493;feet;;;AQ20;;;;;;;5;;Boots of the Vanguard;22;;;22;11;
-;647;;;;5;;;;21706;feet;;;AQ40;;;;;;;5;;Boots of the Unwavering Will;8;;;12;29;
-;424;;;;;;;;16734;feet;;;Dungeon;;;;;;;1;;Boots of Valor;4;;;8;20;
-;596;;;;;;;;19387;feet;;;BWL;;;1;;;;3;;Chromatic Boots;20;;;20;19;
-;604;;;;4;;;;21333;feet;;;AQ40;;;;;;;5;;Conqueror's Greaves;17;;;21;23;
-;116;;;40;;;;;13210;feet;;;Dungeon;;;;;;;1;;Pads of the Dread Wolf;;;;;14;
-;592;;;;;;;;16483;feet;;;PVP;;;1;;;;2;;R12 Plate Boots;12;;;18;24;
-;472;;;;;;;;23287;feet;;;PVP;;;;;;;2;;R7 Plate Boots;9;;;10;23;
-;515;;;;5;;;;16862;feet;;;MC;;;;;;;1;;Sabatons of Might;;;;15;26;
-;589;;;;7;;;;16965;feet;;;BWL;;;;;;;3;;Sabatons of Wrath;;;;13;30;
-;417;;;;;;;;13070;feet;;;Other;;;;;;;1;;Sapphiron's Scale Boots;9;;;14;14;
-;519;;;;;;;;21490;feet;;;AQ20;;;1;;;;5;;Slime Kickers;12;;;18;12;
-;115;;;;;;;;12553;feet;;;Dungeon;;;;;;;1;;Swiftwalker Boots;21;;;4;7;
-;247;;;;;;;;13967;feet;;;Dungeon;;;1;;;;1;;Windreaver Greaves;20;;;;;
-;233;;;;;;;;11731;feet;;;Dungeon;;;;;;;1;;Savage Gladiator Greaves;15;;;10;13;
-;;;;;;;;;19376;finger;;;BWL;;;;;;;3;;Archimtiros' Ring of Reckoning;14;;;;28;
-;;;;;;;;;17063;finger;;;MC;;;2;;;;1;;Band of Accuria;16;;;;10;
-;;;;;;1;;;21182;finger;;;Quest;;;1;;;;5;;Band of Earthen Might;;;;6;;
-;;;;;;;;;19925;finger;;;ZG;;;1;;;;4;;Band of Jin;14;;;;8;
-;;;;;;;;;22961;finger;;;Naxx;;;;;;;6;;Band of Reanimation;34;;;;22;
-;;;;;;;;;18522;finger;;;Dungeon;;;;;;;2;;Band of the Ogre King;;;;14;13;
-;;;;52;;1;;;23038;finger;;;Naxx;;;1;;;;6;;Band of Unnatural Forces;;;;;;
-;;;;20;;;;;17713;finger;;;Dungeon;;;1;;;;1;;Blackstone Ring;;;;;6;
-;;;;;;;;;19432;finger;;;BWL;;;;;;;3;;Circle of Applied Force;22;;;12;9;
-;;;;16;;1;;;19325;finger;;;PVP;;;1;;;;2;;Don Julio's Band;;;;;11;
-;;;;;;1;;;12548;finger;;;Dungeon;;;;;;;1;;Magni's Will;;;;6;7;
-;;;;48;;;;;19384;finger;;;BWL;;;1;;;;3;;Master Dragonslayer's Ring;;;;;14;
-;;;;;;;;;21189;finger;;;Quest;;;1;;;;5;;Might of Cenarius;;;;;8;
-;;;;16;;1;;;13098;finger;;;Dungeon;;;;;;;1;;Painweaver Band;;;;;7;
-;;;;;;;;;19514;finger;;;PVP;;;;;;;3;;Protector's Band;11;;;12;8;
-;;;;30;;1;;;18821;finger;;;MC;;;;;;;1;;Quick Strike Ring;;;;5;8;
-;100;;;;9;;;;21601;finger;;;AQ40;;;;;;;5;;Ring of Emperor Vek'lor;12;;;;18;
-;;;;30;;;;;21477;finger;;;AQ20;;;1;;;;5;;Ring of Fury;;;;;9;
-;;;;;;;;;21596;finger;;;AQ40;;;;;;;5;;Ring of the Godslayer;27;;;;17;
-;;;;40;;1;;;21677;finger;;;AQ40;;;;;;;5;;Ring of the Qiraji Fury;;;;;12;
-;;;;20;;1;;;19898;finger;;;ZG;;;;;;;4;;Seal of Jin;;;;;8;
-;;;;50;;1;;;198981;finger;;;ZG;;;1;;;;4;;Seal of Jin + Band of Jin;14;;;;16;
-;;;;40;;;;;22722;finger;;;ZG;;;;;;;4;;Seal of the Gurubashi Berserker;;;;;13;
-;140;;;;;;;;23018;finger;;;Naxx;;;1;;;;6;;Signet of the Fallen Defender;;;;;24;
-;;;;;;1;;;21393;finger;;;Quest;;;;;;;5;;Signet of Unyielding Strength;;;;11;14;
-;;;;;;;;;21205;finger;;;Quest;;;1;;;;5;;Signet Ring of the Bronze Dragonflight;24;;;;13;
-;;;;;;;;;18500;finger;;;Dungeon;;;1;;;;2;;Tarnished Elven Ring;15;;;;;
-;;50;;;;;;;21670;trinket;;;AQ40;;;;;;;5;Swarmguard;Badge of the Swarmguard (Assumed 50% proc chance) [TODO];;;;;;
-;;;;;;2;;;13965;trinket;;;Quest;;;;;;;1;;Blackhand's Breadth;;;;;;
-;;;;22;;;;;18537;trinket;;;Dungeon;;;;;1;;2;;Counterattack Lodestone;;;;;;
-;;2;;;;;;;19289;trinket;;;Quest;;;;250;;;3;;Darkmoon Card: Maelstrom (Assumed 2% proc chance);;;;;;
-;;;;;;;;;20130;trinket;;;Quest;;;;;;;3;;Diamond Flask (Used last 60 seconds);;;;;;
-;;;;56;;;;;19406;trinket;;;BWL;;1;2;;;;3;;Drake Fang Talisman;;;;;;
-;;;;;;;;;21180;trinket;;;Quest;;;;;;;5;;Earthstrike (Used last 20 secs);;;;;;
-;;2;;20;;;;;11815;trinket;;;Dungeon;;;;;;;1;;Hand of Justice;;;1;;;
-;;2;;;;;;;22321;trinket;;;Dungeon;;;;165;;;1;;Heart of Wyrmthalak (Assumed 2% proc chance);;;;;;
-;;;;;;;;;23570;trinket;;;AQ40;;;;;;;5;;Jom Gabbar (Used last 20 secs);;;;;;
-;;;;;;1;;;22954;trinket;;;Naxx;;;1;;;;6;;Kiss of the Spider (Used last 15 secs);;;;;;
-;;;;20;;;;;19120;trinket;;;Quest;;;1;;;;1;;Rune of the Guard Captain;;;;;;
-;;;;81;;;;;13209;trinket;;;Quest;;;;;;;1;;Seal of the Dawn;;;;;;
-;;;;64;;;;;23041;trinket;;;Naxx;;;;;;;6;;Slayer's Crest (Used last 20 secs);;;;;;
-;;;;;;;;;18680;ranged;;;Dungeon;;;;;;;1;;Ancient Bone Bow;11;;;;;
-;;;;22;;;;;21478;ranged;;;AQ20;;;;;;;5;;Bow of Taut Sinew;;;;;;
-;;;;;;;;;16996;ranged;;;Quest;;;;;;;1;;Gorewood Bow;3;;;2;9;
-;;;;24;;;;;19350;ranged;;;BWL;;;;;;;3;;Heartstriker;;;;;9;
-;;;;;;;;;19993;ranged;;;ZG;;;;;;;4;;Hoodoo Hunting Bow;10;;;;4;
-;;;;;;;;;21616;ranged;;;AQ40;;;;;;;5;;Huhuran's Stinger;18;;;;;
-;;;;20;;;;;22318;ranged;;;Other;;;;;;;1;;Malgen's Long Bow;;;;;4;
-;;;;;;;;;20038;ranged;;;ZG;;;;;;;4;;Mandokir's Sting;11;;;;8;
-;;;;16;;1;;;22811;ranged;;;Naxx;;;;;;;6;;Soulstring;;;;;6;
-;;;;;;;;;19562;ranged;;;PVP;;;;;;;2;;Outrunner's Bow;4;;;;10;
-;;;;22;;;;;12653;ranged;;;Dungeon;;;;;;;1;;Riphook;;;;;;
-;;;;;;;;;18323;ranged;;;Dungeon;;;1;;;;2;;Satyr's Bow;3;;;;;
-;;;;22;;;;;17069;ranged;;;MC;;;1;;;;1;;Striker's Mark;;;;;;
-;;;;;;;;;12651;ranged;;;Dungeon;;;1;;;;1;;Blackcrow;3;;;;;
-;;;;;;;;;19107;ranged;;;PVP;;;;;;;2;;Bloodseeker;7;;;8;;
-;;;;;;;;;18738;ranged;;;Dungeon;;;;;;;1;;Carapace Spine Crossbow;4;;;;9;
-;;;;;;;;;21459;ranged;;;AQ40;;;1;;;;5;;Crossbow of Imminent Doom;7;;;5;5;
-;;;;;;;;;22347;ranged;;;Quest;;;1;;;;5;;Fahrad's Reloading Repeater;4;;;;;
-;;;;;;;;;13040;ranged;;;Other;;;;;;;1;;Heartseeking Crossbow;9;;;;4;
-;;;;24;;1;;;22812;ranged;;;Naxx;;;;;;;6;;Nerubian Slavemaker;;;;;;
-;;;;24;;;;;20599;ranged;;;Emeriss;;;;;;;4;;Polished Ironwood Crossbow;;;;;5;
-;;;;14;;;;;13039;ranged;;;Other;;;;;;;1;;Skull Splitting Crossbow;;;;3;;
-;;;;;;1;;;17072;ranged;;;MC;;;;;;;1;;Blastershot Launcher;;;;;6;
-;;;;10;;;;;13248;ranged;;;Other;;;;;;;1;;Burstshot Harquebus;;;;;8;
-;;;;20;;;;;20722;ranged;;;Other;;;;;;;4;;Crystal Slugthrower;;;;;4;
-;;;;;;;;;19368;ranged;;;BWL;;;;;;;3;;Dragonbreath Hand Cannon;14;;;;7;
-;;;;30;;;;;19853;ranged;;;ZG;;;;;;;4;;Gurubashi Dwarf Destroyer;;;;;;
-;;;;;;;;;13139;ranged;;;Other;;;;;;;1;;Guttbuster;8;;;3;;
-;;;;18;;1;;;23557;ranged;;;AQ40;;;;;;;5;;Larvae of the Great Worm;;;;;;
-;;;;;;;;;21800;ranged;;;AQ20;;;;;;;5;;Silithid Husked Launcher;4;;;;10;
-;;;;28;;;;;22810;ranged;;;Naxx;;;;;;;6;;Toxin Injector;;;;;10;
-;;;;8;;;;;13380;ranged;;;Dungeon;;;;;;;1;;Willey's Portable Howitzer;;;;;9;
-;;;1;;;;;2;19852;mainhand;;;ZG;Axe;;;113;;;4;;Ancient Hakkari Manslayer;;130;;;;69
-;;;1;;;;;1.7;12798;mainhand;;;Crafting;Axe;;;;;True;1;Annihilator;Annihilator;;92;;;;49
-;;;0.8;;;;;2.7;811;mainhand;;;Other;Axe;;;108;;True;1;;Axe of the Deep Woods;;146;;;;78
-;;;;14;;1;;2.6;21242;mainhand;;;AQ40;Axe;;;;;;5;;Blessed Qiraji War Axe;;205;;;9;110
-;;;;;;;;1.7;18737;mainhand;;;Dungeon;Axe;;;;;;1;;Bone Slicing Hatchet;13;90;;;5;48
-;;;;36;;;;2.3;19363;mainhand;;;BWL;Axe;;;;;;3;;Crul'Shorukh, Edge of Chaos;;188;;;13;101
-;;;;;;;;2.4;17016;mainhand;;;Crafting;Axe;;;;;True;1;;Dark Iron Destroyer;;134;;10;;71
-;;;0.8;;;;;2.9;17068;mainhand;;;Onyxia;Axe;;;138;;;1;;Deathbringer;;213;;;;114
-;;;;;;;;2.3;19362;mainhand;;;BWL;Axe;;;;;;3;;Doom's Edge;16;154;;9;7;83
-;;;1.8;;;;;1.5;871;mainhand;;;Other;Axe;;;;;;1;;Flurry Axe;;69;1;;;37
-;;;;;;;;2.7;19103;mainhand;;;PVP;Axe;;;;;;2;;Frostbite;;150;;15;;80
-;;;;36;;1;;2.6;22816;mainhand;;;Naxx;Axe;;;;;;6;;Hatchet of Sundered Bone;;221;;;;119
-;;;;;;;;2;13952;mainhand;;;Dungeon;Axe;;;;;True;1;;Iceblade Hacker;;111;;;;58
-;;;;28;;1;;2.9;18827;mainhand;;;PVP;Axe;;;;;;2;;R14 Axe;;207;;;7;138
-;100;;;;;;;1.9;13015;mainhand;;;Other;Axe;;;;;;1;;Serathil;;99;;9;;53
-;;;;;4;;;2.1;21392;mainhand;;;AQ20;Axe;;;;;;5;;Sickle of Unyielding Strength;6;141;;15;9;75
-;;;;28;;;;2.5;20675;mainhand;;;Other;Axe;;;;;;4;;Soulrender;;133;;;;71
-193;;;;;;;2;2.4;19921;mainhand;;;ZG;Axe;;;;;;4;;Zulian Hacker of Strength;;134;;12;;71
-690;;;;;;;2;2.4;199211;mainhand;;;ZG;Axe;;;;;;4;;Zulian Hacker of the Tiger;8;134;;8;;71
-;;;1;;;;;1.3;14555;mainhand;;;Other;Dagger;;;99;;;1;;Alcor's Sunrazor;;77;;;;41
-;;;;;;;;1.6;19166;mainhand;;;Crafting;Dagger;;;;;;3;;Black Amnesty;;100;;;;53
-;;;;18;;1;;1.7;21244;mainhand;;;AQ40;Dagger;;1;;;;5;;Blessed Qiraji Pugio;;134;;;7;72
-;;;;30;;;;1.4;13368;mainhand;;;Dungeon;Dagger;;;;;;1;;Bonescraper;;74;;;;40
-;;;;20;;1;;1.6;18805;mainhand;;;MC;Dagger;;;;;;1;;Core Hound Tooth;;107;;;9;57
-;;;1;;;;;1.5;13984;mainhand;;;Quest;Dagger;;;99;;;1;;Darrowspike;;81;;;;43
-;;;;38;;;3;1.8;21126;mainhand;;;AQ40;Dagger;;;;;;5;;Death's Sting;;144;;;10;95
-;;;;;;;;1.8;19346;mainhand;;;BWL;Dagger;;;;;;3;;Dragonfang Blade;16;130;;;13;69
-;;;1;;;;;1.8;20578;mainhand;;;Ysondre;Dagger;;;97;;;4;;Emerald Dragonfang;12;123;;;;66
-;;;;28;;1;;1.9;19859;mainhand;;;ZG;Dagger;;;;;;4;;Fang of the Faceless;;123;;;;66
-;;;1;;;;;1.7;12590;mainhand;;;Dungeon;Dagger;;;;;;1;Felstriker;Felstriker;;101;;;;54
-;;;;;;;;1.3;12709;mainhand;;;Dungeon;Dagger;;;;;True;1;;Finkle's Skinner;;70;;;;37
-;;;1;;;;;1.8;19099;mainhand;;;PVP;Dagger;;;49;;;2;;Glacial Blade;10;100;;;;53
-;;;1;;;;;1.8;17071;mainhand;;;MC;Dagger;;;82;;;1;;Gutgore Ripper;;119;;;;63
-;;;;;;1;;1.6;23044;mainhand;;;Naxx;Dagger;;1;;;;6;;Harbinger of Doom;8;126;;;8;83
-;;;;;;1;;1.7;12783;mainhand;;;Crafting;Dagger;;;;;;1;;Heartseeker;;92;;4;;49
-;;;;28;;1;;2;18838;mainhand;;;PVP;Dagger;;;;;;2;;R14 Dagger;;143;;;7;95
-;;;;;;1;;1.8;22802;mainhand;;;Naxx;Dagger;;1;;;;6;;Kingsfall;16;158;;;;105
-;;;;36;;;;1.8;22804;mainhand;;;Naxx;Dagger;;1;;;;6;;Maexxna's Fang;;141;;;8;94
-;;;1;;;;;1.8;18816;mainhand;;;MC;Dagger;;;53;;;1;;Perdition's Blade;;137;;;;73
-;;;;20;;;;1.9;21498;mainhand;;;AQ20;Dagger;;;;;;5;;Qiraji Sacrificial Dagger;;119;;;15;64
-;;;;;;;;1.5;5267;mainhand;;;Other;Dagger;;;;;;1;;Scarlet Kris;10;81;;;10;43
-;;;;;;;;1.7;19542;mainhand;;;PVP;Dagger;;;;;;2;;Scout's Blade;13;92;;;5;49
-;;;;;;;;1.7;21522;mainhand;;;Quest;Dagger;;;;;;5;;Shadowsong's Sorrow;13;127;;9;14;68
-;;;1;;;;;1.8;19324;mainhand;250;;PVP;Dagger;;;;;;2;;The Lobotomizer;;111;;;;59
-;;;;;;;;1.8;22377;mainhand;;;Quest;Dagger;;;;;;5;;The Thunderwood Poker;13;100;;;6;53
-;;;;;;1;;2.6;19365;mainhand;;;BWL;Fist;;;;;True;3;;Claw of the Black Drake;;191;;13;7;102
-;;;1;;;;;1.5;18203;mainhand;;;MC;Fist;;;;;True;1;Eskhandar;Eskhandar's Right Claw;4;94;;;;50
-;;;;28;;1;;2.9;18844;mainhand;;;PVP;Fist;;;;;True;2;;R14 Claw (MH);;207;;;7;138
-;;;;;;;;1.5;22317;mainhand;;;Other;Fist;;;;;;5;;Lefty's Brass Knuckle;12;78;;5;;42
-;;;;30;;1;;1.6;21673;mainhand;;;AQ40;Fist;;;;;True;5;;Silithid Claw;;120;;;;64
-;;;;;;1;;2.2;19896;mainhand;;;ZG;Fist;;;;;True;4;;Thekal's Grasp (1% chance on set);;135;;;13;72
-;;;;10;;;;2.6;22404;mainhand;;;Dungeon;Fist;;;;;True;1;;Willey's Back Scratcher;;136;;;12;73
-;;;;32;;;4;1.8;21837;mainhand;;;AQ40;Mace;;;;;;5;;Anubisath Warhammer;;123;;;7;66
-;70;;;;8;;;2.1;21268;mainhand;;;AQ40;Mace;;;;;;5;;Blessed Qiraji War Hammer;;166;;10;12;89
-;;;0.5;;;;;2.3;19170;mainhand;;;Crafting;Mace;;;220;;;1;;Ebon Hand;;154;;;9;83
-;;;1.1;;;;;2.8;17112;mainhand;;;Kazzak;Mace;;;;;True;2;Empyrean;Empyrean Demolisher;;175;;;;94
-;;;0.8;;;;;2.4;11684;mainhand;;;Dungeon;Mace;;;;;True;1;;Ironfoe;;136;2;;;73
-;90;;;;;;;1.9;20580;mainhand;;;Green Dragons;Mace;;;;;True;4;;Hammer of Bestial Fury;;130;;13;12;69
-;;;;28;;1;;2.9;18865;mainhand;;;PVP;Mace;;;;;;2;;R14 Hammer;;207;;;7;138
-;;;;;;;;2.8;13006;mainhand;;;Other;Mace;;;;;True;1;;Mass of McGowan;;149;;10;10;80
-;;;1;;;;;2.8;23221;mainhand;;;Naxx;Mace;;;125;;;6;;Misplaced Servo Arm;;238;;;;128
-;;;;;;1;;2.7;22384;mainhand;;;Crafting;Mace;;1;;;True;1;;Persuader;;161;;;;86
-;;;;20;;1;;2.6;21715;mainhand;;;AQ20;Mace;;;;;;5;;Sand Polished Hammer;;181;;;9;97
-;;;1;;;;2;2.6;19908;mainhand;;;ZG;Mace;;;78;;;4;;Sceptre of Smiting;;145;;;;77
-;;;;;5;;;2.6;19335;mainhand;;;BWL;Mace;;;;;True;3;;Spineshatter;;184;;9;16;99
-;;;;;;;;2.7;19104;mainhand;;;PVP;Mace;;;;;;2;;Stormstrike Hammer;;150;;15;;80
-;;;;16;;1;;2.6;22808;mainhand;;;Naxx;Mace;;1;;;;6;;The Castigator;;221;;;9;119
-;120;;;;;;;2.2;18376;mainhand;;;Dungeon;Mace;;;;;;2;;Timeworn Mace;;117;;7;11;62
-;;;;20;;1;;2.8;21650;mainhand;;;AQ40;Sword;;;;;;5;;Ancient Qiraji Ripper;;214;;;11;114
-;;;;;;;;1.8;19168;mainhand;;;Crafting;Sword;;;;1;;3;;Blackguard;;121;;;9;65
-;80;;;;4;;;1.9;19867;mainhand;;;ZG;Sword;;;;;True;4;;Bloodlord's Defender;;119;;;15;64
-;;;;;;1;;2.5;18832;mainhand;;;MC;Sword;;;;;;1;;Brutality Blade;9;168;;9;;90
-;;;;28;;;;2.4;18484;mainhand;;;Dungeon;Sword;;;;;;2;;Cho'Rush's Blade;;125;;;;67
-;;;;;;;;2.6;19352;mainhand;;;BWL;Sword;;;;;;3;;Chromatically Tempered Sword;14;198;;14;7;106
-;;;;;;;;2.6;19110;mainhand;;;PVP;Sword;;;;;;2;;Cold Forged Blade;5;140;;;13;75
-;;;;;;1;;2.8;12940;mainhand;;;Dungeon;Sword;;;;;True;1;;Dal'Rend's Sacred Charge;;151;;4;;81
-;;;;;;;;2.4;17015;mainhand;;;Crafting;Sword;;;;;True;1;;Dark Iron Reaver;;134;;;10;71
-;60;;;;5;;;1.8;19968;mainhand;;;ZG;Sword;;;;;True;4;;Fiery Retributer;;105;;7;;56
-;;;;40;;;;2.7;23054;mainhand;;;Naxx;Sword;;;;;;6;;Gressil, Dawn of Ruin;;257;;;15;138
-;;;;26;;1;;1.6;23014;mainhand;;;Naxx;Sword;;1;;;;6;;Iblis, Blade of the Fallen Seraph;;131;;;;70
-;;;;;;1;;2.8;2244;mainhand;;;Other;Sword;;;;;True;1;;Krol Blade;;149;;7;5;80
-;;;;;;;4;2.2;19351;mainhand;;;BWL;Sword;;;;1;;3;;Maladath, Runed Blade of the Black Flight;;162;;;;86
-;;;;;;;;1.8;15806;mainhand;;;Quest;Sword;;;;;;1;;Mirah's Song;9;87;;9;;57
-;70;;;32;;;;2.7;20577;mainhand;;;Taerar;Sword;;;;;;4;;Nightmare Blade;;185;;;9;99
-;;;;;;;;2;18348;mainhand;;;Quest;Sword;;;;;True;2;;Quel'Serrar;;126;;;12;84
-;;;;28;;1;;2.9;12584;mainhand;;;PVP;Sword;;;;;;2;;R14 Longsword;;207;;;7;138
-;;;;28;;1;;1.8;23456;mainhand;;;PVP;Sword;;;;;;2;;R14 Swift Blade;;129;;;7;85
-;;;;;;;;2.1;21520;mainhand;;;Quest;Sword;;;;;;5;;Ravencrest's Legacy;9;157;;13;14;84
-;;;;26;;;;2.8;22378;mainhand;;;Quest;Sword;;;;;;5;;Ravenholdt Slicer;;156;;;6;83
-;;;1.8;;;;;2.8;6622;mainhand;;;Other;Sword;;;;;True;1;Zeal;Sword of Zeal;;151;;;;81
-;;;1;12;;;;2.5;19901;mainhand;;;ZG;Sword;;;84;;;4;;Zulian Slicer;;146;;;;78
-;;;1;;;;;2.9;1728;mainhand;;;Other;Sword;;;165;;True;1;;Teebu's Blazing Longsword;;178;;;;96
-;140;;;;;;6;1.5;23577;mainhand;;;Naxx;Sword;;;;;;6;;The Hungering Cold;;143;;;14;76
-;;;1;;;;;2.7;17705;mainhand;;;Quest;Sword;;;;;;1;;Thrash Blade;;124;1;;;66
-;;;6;;;;;1.9;19019;mainhand;;;MC;Sword;;;300;;;3;;Thunderfury, Blessed Blade of the Windseeker;5;145;;;8;60
-;;;;28;;1;;1.7;19865;mainhand;;;ZG;Sword;;;;;True;4;;Warblade of the Hakkari (MH);;110;;;;59
-;100;;;;;;;1.6;22806;mainhand;;;Naxx;Sword;;1;;;;6;;Widow's Remorse;;131;;;17;70
-;;;0.5;;;;;2.6;17075;mainhand;240;;Onyxia;Sword;;;;;;1;;Vis'kag the Bloodletter;;187;;;;100
-;;;;;;;;2.7;19554;mainhand;;;PVP;Sword;;;;;;3;;Protector's Sword;;146;;13;5;78
-;;;1;;;;;2.4;14487;mainhand;;;Dungeon;Mace;;;99;;;1;;Bonechill Hammer;;127;;;;68
-;;;;;;;;2.5;18683;mainhand;;;Dungeon;Mace;;;;;;1;;Hammer of the Vesper;;131;;7;12;70
-;;;1;;;;;2;19852;offhand;;;ZG;Axe;;;113;;;4;;Ancient Hakkari Manslayer;;130;;;;69
-;;;;14;;1;;2.6;21242;offhand;;;AQ40;Axe;;;;;;5;;Blessed Qiraji War Axe;;205;;;9;110
-;;;;;;;;1.7;18737;offhand;;;Dungeon;Axe;;;;;;1;;Bone Slicing Hatchet;13;90;;;5;48
-;;;;36;;;;2.3;19363;offhand;;;BWL;Axe;;;;;;3;;Crul'Shorukh, Edge of Chaos;;188;;;13;101
-;;;0.8;;;;;2.9;17068;offhand;;;Onyxia;Axe;;;138;;;1;;Deathbringer;;213;;;;114
-;;;;;;;;2.3;19362;offhand;;;BWL;Axe;;;;;;3;;Doom's Edge;16;154;;9;7;83
-;;;1.8;;;;;1.5;871;offhand;;;Other;Axe;;;;;;1;;Flurry Axe;;69;1;;;37
-;;;;;;;;2.7;19103;offhand;;;PVP;Axe;;;;;;2;;Frostbite;;150;;15;;80
-;;;;36;;1;;2.6;22816;offhand;;;Naxx;Axe;;;;;;6;;Hatchet of Sundered Bone;;221;;;;119
-;;;;28;;1;;2.9;18827;offhand;;;PVP;Axe;;;;;;2;;R14 Axe;;207;;;7;138
-;100;;;;;;;1.9;13015;offhand;;;Other;Axe;;;;;;1;;Serathil;;99;;9;;53
-;;;;;4;;;2.1;21392;offhand;;;AQ20;Axe;;;;;;5;;Sickle of Unyielding Strength;6;141;;15;9;75
-;;;;28;;;;2.5;20675;offhand;;;Other;Axe;;;;;;5;;Soulrender;;133;;;;71
-193;;;;;;;2;2.4;19921;offhand;;;ZG;Axe;;;;;;4;;Zulian Hacker of Strength;;134;;12;;71
-690;;;;;;;2;2.4;199211;offhand;;;ZG;Axe;;;;;;4;;Zulian Hacker of the Tiger;8;134;;8;;71
-;;;1;;;;;1.3;14555;offhand;;;Other;Dagger;;;99;;;1;;Alcor's Sunrazor;;77;;;;41
-;;;;;;;;1.6;19166;offhand;;;Crafting;Dagger;;;;;;3;;Black Amnesty;;100;;;;53
-;;;;18;;1;;1.7;21244;offhand;;;AQ40;Dagger;;1;;;;5;;Blessed Qiraji Pugio;;134;;;7;72
-;;;;30;;;;1.4;13368;offhand;;;Dungeon;Dagger;;;;;;1;;Bonescraper;;74;;;;40
-;;;;20;;1;;1.6;18805;offhand;;;MC;Dagger;;;;;;1;;Core Hound Tooth;;107;;;9;57
-;;;1;;;;;1.5;13984;offhand;;;Quest;Dagger;;;99;;;1;;Darrowspike;;81;;;;43
-;;;;38;;;3;1.8;21126;offhand;;;AQ40;Dagger;;;;;;5;;Death's Sting;;144;;;10;95
-;;;;;;;6;1.3;18392;offhand;;True;Dungeon;Dagger;;;;;;2;;Distracting Dagger;;64;;;;42
-;;;;;;;;1.8;19346;offhand;;;BWL;Dagger;;;;;;3;;Dragonfang Blade;16;130;;;13;69
-;;;1;;;;;1.8;20578;offhand;;;Ysondre;Dagger;;;97;;;4;;Emerald Dragonfang;12;123;;;;66
-;;;;28;;1;;1.9;19859;offhand;;;ZG;Dagger;;;;;;4;;Fang of the Faceless;;123;;;;66
-;;;1;;;;;1.7;12590;offhand;;;Dungeon;Dagger;;;;;;1;Felstriker;Felstriker;;101;;;;54
-;;;1;;;;;1.8;19099;offhand;;;PVP;Dagger;;;49;;;2;;Glacial Blade;10;100;;;;53
-;;;1;;;;;1.8;17071;offhand;;;MC;Dagger;;;82;;;1;;Gutgore Ripper;;119;;;;63
-;;;;;;1;;1.6;23044;offhand;;;Naxx;Dagger;;1;;;;6;;Harbinger of Doom;8;126;;;8;83
-;;;;;;1;;1.7;12783;offhand;;;Crafting;Dagger;;;;;;1;;Heartseeker;;92;;4;;49
-;;;;28;;1;;2;18838;offhand;;;PVP;Dagger;;;;;;2;;R14 Dagger;;143;;;7;95
-;;;;;;1;;1.8;22802;offhand;;;Naxx;Dagger;;1;;;;6;;Kingsfall;16;158;;;;105
-;;;;36;;;;1.8;22804;offhand;;;Naxx;Dagger;;1;;;;6;;Maexxna's Fang;;141;;;8;94
-;;;1;;;;;1.8;18816;offhand;;;MC;Dagger;;;53;;;1;;Perdition's Blade;;137;;;;73
-;;;;20;;;;1.9;21498;offhand;;;AQ20;Dagger;;;;;;5;;Qiraji Sacrificial Dagger;;119;;;15;64
-;;;;;;;;1.5;5267;offhand;;;Other;Dagger;;;;;;1;;Scarlet Kris;10;81;;;10;43
-;;;;;;;;1.7;19542;offhand;;;PVP;Dagger;;;;;;2;;Scout's Blade;13;92;;;5;49
-;;;;;;;;1.7;21522;offhand;;;Quest;Dagger;;;;;;5;;Shadowsong's Sorrow;13;127;;9;14;68
-;;;1;;;;;1.8;19324;offhand;250;;PVP;Dagger;;;;;;2;;The Lobotomizer;;111;;;;59
-;;;;;;;;1.8;22377;offhand;;;Quest;Dagger;;;;;;5;;The Thunderwood Poker;13;100;;;6;53
-;;;1;;;;;1.5;19910;offhand;;True;ZG;Fist;;;77;;;4;;Arlokk's Grasp (1% chance on set);;84;;;;41
-;;;;22;;1;;1.5;23242;offhand;;True;Naxx;Fist;;1;;;;6;;Claw of the Frost Wyrm;;140;;;8;75
-;;;;;;;;1.5;18202;offhand;;True;Azuregos;Fist;;;;;;2;;Eskhandar's Left Claw;4;94;;;;50
-;;;;28;;1;;2.9;18848;offhand;;True;PVP;Fist;;;;;;2;;R14 Claw (OH);;207;;;7;138
-;;;;;;;;1.5;22317;offhand;;;Other;Fist;;;;;;5;;Lefty's Brass Knuckle;12;78;;5;;42
-;;;;32;;;4;1.8;21837;offhand;;;AQ40;Mace;;;;;;5;;Anubisath Warhammer;;123;;;7;66
-;70;;;;8;;;2.1;21268;offhand;;;AQ40;Mace;;;;;;5;;Blessed Qiraji War Hammer;;166;;10;12;89
-;;;1;;;;;2.3;19170;offhand;;;Crafting;Mace;;;220;;;3;;Ebon Hand;;154;;;9;83
-;;;;28;;1;;2.9;18865;offhand;;;PVP;Mace;;;;;;2;;R14 Hammer;;207;;;7;138
-;;;1;;;;;2.8;23221;offhand;;;Naxx;Mace;;;125;;;6;;Misplaced Servo Arm;;238;;;;128
-;;;;20;;1;;2.6;21715;offhand;;;AQ20;Mace;;;;;;5;;Sand Polished Hammer;;181;;;9;97
-;;;1;;;;2;2.6;19908;offhand;;;ZG;Mace;;;78;;;4;;Sceptre of Smiting;;145;;;;77
-;;;;;;;;2.7;19104;offhand;;;PVP;Mace;;;;;;2;;Stormstrike Hammer;;150;;15;;80
-;;;;16;;1;;2.6;22808;offhand;;;Naxx;Mace;;1;;;;6;;The Castigator;;221;;;9;119
-;120;;;;;;;2.2;18376;offhand;;;Dungeon;Mace;;;;;;2;;Timeworn Mace;;117;;7;11;62
-;;;;20;;1;;2.8;21650;offhand;;;AQ40;Sword;;;;;;5;;Ancient Qiraji Ripper;;214;;;11;114
-;;;;;;;;1.8;19168;offhand;;;Crafting;Sword;;;;1;;3;;Blackguard;;121;;;9;65
-;;;;;;1;;2.5;18832;offhand;;;MC;Sword;;;;;;1;;Brutality Blade;9;168;;9;;90
-;;;;28;;;;2.4;18484;offhand;;;Dungeon;Sword;;;;;;2;;Cho'Rush's Blade;;125;;;;67
-;;;;;;;;2.6;19352;offhand;;;BWL;Sword;;;;;;3;;Chromatically Tempered Sword;14;198;;14;7;106
-;;;;;;;;2.6;19110;offhand;;;PVP;Sword;;;;;;2;;Cold Forged Blade;5;140;;;13;75
-;100;;;;7;;;1.8;12939;offhand;;True;Dungeon;Sword;;;;;;1;;Dal'Rend's Tribal Guardian;;97;;;;52
-;;;;40;;;;2.7;23054;offhand;;;Naxx;Sword;;;;;;6;;Gressil, Dawn of Ruin;;257;;;15;138
-;;;;26;;1;;1.6;23014;offhand;;;Naxx;Sword;;1;;;;6;;Iblis, Blade of the Fallen Seraph;;131;;;;70
-;;;;;;;4;2.2;19351;offhand;;;BWL;Sword;;;;1;;3;;Maladath, Runed Blade of the Black Flight;;162;;;;86
-;;;;;;;;1.8;15806;offhand;;;Quest;Sword;;;;;;1;;Mirah's Song;9;87;;9;;57
-;70;;;32;;;;2.7;20577;offhand;;;Taerar;Sword;;;;;;4;;Nightmare Blade;;185;;;9;99
-;;;;28;;1;;2.9;12584;offhand;;;PVP;Sword;;;;;;2;;R14 Longsword;;207;;;7;138
-;;;;28;;1;;1.8;23456;offhand;;;PVP;Sword;;;;;;2;;R14 Swift Blade;;129;;;7;85
-;;;;;;;;2.1;21520;offhand;;;Quest;Sword;;;;;;5;;Ravencrest's Legacy;9;157;;13;14;84
-;;;;26;;;;2.8;22378;offhand;;;Quest;Sword;;;;;;5;;Ravenholdt Slicer;;156;;;6;83
-;;;1;12;;;;2.5;19901;offhand;;;ZG;Sword;;;84;;;4;;Zulian Slicer;;146;;;;78
-;140;;;;;;6;1.5;23577;offhand;;;Naxx;Sword;;;;;;6;;The Hungering Cold;;143;;;14;76
-;;;1;;;;;2.7;17705;offhand;;;Quest;Sword;;;;;;1;;Thrash Blade;;124;1;;;66
-;;;8;;;;;1.9;19019;offhand;;;MC;Sword;;;300;;;3;;Thunderfury, Blessed Blade of the Windseeker;5;145;;;8;60
-;;;;40;;;;1.7;19866;offhand;;True;ZG;Sword;;;;;;4;;Warblade of the Hakkari (OH);;106;;;;57
-;100;;;;;;;1.6;22806;offhand;;;Naxx;Sword;;1;;;;6;;Widow's Remorse;;131;;;17;70
-;;;0.8;;;;;2.6;17075;offhand;240;;Onyxia;Sword;;;;;;1;;Vis'kag the Bloodletter;;187;;;;100
-;;;;;;;;2.7;19554;offhand;;;PVP;Sword;;;;;;3;;Protector's Sword;;146;;13;5;78
-;;;1;;;;;2.4;14487;offhand;;;Dungeon;Mace;;;99;;;1;;Bonechill Hammer;;127;;;;68
-;;;;;;;;2.5;18683;offhand;;;Dungeon;Mace;;;;;;1;;Hammer of the Vesper;;131;;7;12;70
-;;;;62;;;;3.8;12784;twohand;;;Crafting;Axe;;;;;;1;;Arcanite Reaper;;256;;;13;153
-;;;1;;;;;2.1;1263;twohand;250;;Other;Axe;;;;;;1;;Brain Hacker;;143;;;;95
-;;;;;;;;3.5;21134;twohand;;;AQ40;Axe;;;;;;5;;Dark Edge of Insanity;19;364;;35;25;242
-;;;;;;;;3.2;19354;twohand;;;BWL;Axe;;;;;;3;;Draconic Avenger;;262;;21;18;174
-;;;1;;;;;3.4;19353;twohand;240;;BWL;Axe;;;;;;3;;Drake Talon Cleaver;;300;;22;17;199
-;;;;30;;1;;3.7;11931;twohand;;;Dungeon;Axe;;;;;;1;;Dreadforge Retaliator;;225;;;;149
-;;;;;;;;3.4;13983;twohand;;;Dungeon;Axe;;;;;;1;;Gravestone War Axe;;217;;;;144
-;;;;;;;;3.9;19962;twohand;;;ZG;Axe;;;;;;4;;Gri'lek's Carver;;274;;;;182
-;;;;;;1;;3.8;18831;twohand;;;PVP;Axe;;;;;;2;;R14 Battle Axe;;353;;26;41;235
-;;;;26;;;;3.1;18759;twohand;;;Dungeon;Axe;;;;;;1;;Malicious Axe;;197;;;30;131
-;;;1;;;;;3.7;21856;twohand;;;Naxx;Axe;;;152;;;6;;Neretzek, The Blood Drinker;;303;;21;16;202
-;;;;;;;;3.5;19169;twohand;;;Crafting;Axe;;;;;;1;;Nightfall;;282;;;;187
-;;;;;;2;;3.6;22815;twohand;;;Naxx;Axe;;;;;;6;;Severance;;354;;43;18;235
-;;;;34;;;;3.4;17104;twohand;;;MC;Axe;;;;;;1;;Spinal Reaper;;305;;;;203
-;;;1;;;;;4;13285;twohand;100;;Dungeon;Axe;;;;;;1;;The Nicker;;239;;;;159
-;;;;;;2;;2.7;18538;twohand;;;Dungeon;Axe;;;;;;2;;Treant's Bane;;193;;25;15;128
-;;;;44;;1;;2.8;19900;twohand;;;ZG;Axe;;;;;;4;;Zulian Stone Axe;;197;;;;131
-;;;;;;1;;3;18420;twohand;;;Quest;Mace;;;;;;2;;Bonecrusher;;194;;30;;129
-;;;;;;2;;3.9;20696;twohand;;;Other;Mace;;;;;;4;;Crystal Spiked Maul;;252;;16;;168
-;;;;;;;;3.8;22348;twohand;;;Quest;Mace;;1;;;;5;;Doomulus Prime;;265;;22;22;158
-;;;;;;2;;3.5;19358;twohand;;;BWL;Mace;;;;;;3;;Draconic Maul;;282;;27;19;187
-;;;;22;;;;3.5;17073;twohand;;;MC;Mace;;;;;;1;;Earthshaker;;263;;;;175
-;;;;;;;;3.3;13167;twohand;;;Dungeon;Mace;;;;;;1;;Fist of Omokk;;204;;29;12;135
-;;;;;;;;3.8;12796;twohand;;;Crafting;Mace;;;;;;1;;Hammer of the Titans;;246;;15;;163
-;;;;;;1;;3.8;18868;twohand;;;PVP;Mace;;;;;;2;;R14 Pulverizer;;353;;26;41;235
-;;;1;;;;;3.6;19918;twohand;210;;ZG;Mace;;;;;;4;;Jeklik's Crusher;;248;;;;159
-;;;;;;2;;3.8;22798;twohand;;;Naxx;Mace;;;;;;6;;Might of Menethil;;435;;20;46;289
-;;;;;;;;3.6;12969;twohand;;;Dungeon;Mace;;;;;;1;;Seeping Willow;;233;;;;155
-;;;0.7;;;;;3.7;17182;twohand;;;MC;Mace;;;333;;;1;;Sulfuras, Hand of Ragnaros;;372;;12;12;223
-;;;1;;;;;3.7;17193;twohand;;;MC;Mace;;;101;;;1;;Sulfuron Hammer;;295;;;;175
-;;;;;;2;;3.8;19323;twohand;;;PVP;Mace;;;;;;2;;The Unstoppable Force;;292;;19;15;175
-;;;;;;;;2;9449;twohand;;;Other;Mace;;;;;;1;;Manual Crowd Pummeler (Used last 30 secs);5;70;;16;;46
-;;;;;;;;3.7;21635;twohand;;;AQ40;Polearm;;;;;;5;;Barb of the Sand Reaver;41;338;;;31;225
-;;;;;;1;;2.1;19167;twohand;;;Crafting;Polearm;;;;;;3;;Blackfury;;158;;35;15;105
-;;;1;;;;;3.5;12583;twohand;432;;Dungeon;Polearm;;;;;;1;;Blackhand Doomsaw;;227;;;;151
-;;;1;;;;;3.5;19874;twohand;564;;ZG;Polearm;;;;;;4;;Halberd of Smiting;;263;;;;175
-;;;;;;;;3.6;22314;twohand;;;Dungeon;Polearm;;;;;;2;;Huntsman's Harpoon;35;226;;;;150
-;;;;;;1;;3.8;18871;twohand;;;PVP;Polearm;;;;;;2;;R14 Polearm;;353;;26;41;235
-;;;;;;;;3.6;19106;twohand;;;Quest;Polearm;;;;;;2;;Ice Barbed Spear;21;233;;13;20;155
-;;;;;;;;2.9;18502;twohand;;;Dungeon;Polearm;;;;;;2;;Monstrous Glaive;;185;;;23;123
-;;;1;;;;;3.1;17223;twohand;;;MC;Polearm;;;200;;;1;;Thunderstrike;;221;;;;147
-;;;;56;;1;;3.4;18725;twohand;;;Dungeon;Polearm;;;;;;1;;Peacemaker;;206;;;;137
-;;;;;;;;3.5;19963;twohand;;;ZG;Polearm;;;;;;4;;Pitchfork of Madness;;246;;;;163
-;;;;;;;;3.7;20660;twohand;;;Other;Polearm;;;;;;4;;Stonecutting Glaive;12;228;;29;;152
-;;;;;;;;3.7;23039;twohand;;;Naxx;Polearm;;;;;;6;;The Eye of Nerub;45;378;;;22;251
-;;;;;;;;3.3;19946;twohand;;;ZG;Polearm;;2;;;;4;;Tigule's Harpoon;;232;;;20;154
-;;;;86;;;;3.5;19364;twohand;;;BWL;Sword;;;;;;3;;Ashkandi, Greatsword of the Brotherhood;;344;;;33;229
-;;;;60;;1;;3.2;18520;twohand;;;Dungeon;Sword;;;;;;2;;Barbarous Blade;;207;;;;138
-;;;;;;;;3.5;12592;twohand;;;Dungeon;Sword;;;;;;1;;Blackblade of Shahram;;250;;;;166
-;;;;;;;;2.1;2801;twohand;;;Other;Sword;;;;;;1;;Blade of Hanna;11;152;;11;11;101
-;;;2;;;1;;3.4;17076;twohand;;;MC;Sword;;;;;;1;Bonereaver;Bonereaver's Edge;;310;;;16;206
-;;;;98;;;;3.6;22813;twohand;;;Naxx;Sword;;;;;;6;;Claymore of Unholy Might;;354;;;20;235
-;;;1;;;2;;3.6;22691;twohand;;;Naxx;Sword;;1;200;;;6;;Corrupted Ashbringer;;389;;;;259
-;;;;54;;;;3.6;20669;twohand;;;Other;Sword;;;;;;4;;Darkstone Claymore;;229;;;17;152
-;;;1;;;;;2.6;647;twohand;;;Other;Sword;;;;;;1;Destiny;Destiny;;168;;;;112
-;;;;;;1;;3.8;18877;twohand;;;PVP;Sword;;;;;;2;;R14 Greatsword;;353;;26;41;235
-;;;1;;;;;3.2;21679;twohand;;;AQ40;Sword;;;258;;;5;;Kalimdor's Revenge;;315;;24;18;209
-;;;;;;;;3.6;21492;twohand;;;AQ20;Sword;;;;;;5;;Manslayer of the Qiraji;15;270;;35;20;180
-;;;;;;;8;3.4;18822;twohand;;;MC;Sword;;;;;;1;;Obsidian Edged Blade;;264;;42;;176
-;;;;;;;;3.3;13163;twohand;;;Dungeon;Sword;;;;;;1;;Relentless Scythe;8;210;;20;8;140
-;;;;;;;;3.6;13505;twohand;;;Dungeon;Sword;;;;;;1;;Runeblade of Baron Rivendare;;257;;;;171
-;;;1;;;;;3.4;19334;twohand;;;BWL;Sword;;;;;;3;Untamed;The Untamed Blade;22;289;;;16;192
-;;;;;;;;2.9;18542;twohand;;;Azuregos;Sword;;;;;;2;;Typhoon;20;225;;14;10;150
-;;;;;;;;3.3;13982;twohand;;;Quest;Sword;;;;;;1;;Warblade of Caer Darrow;;236;;;;143
-;;;;72;;;;3.8;19854;twohand;;;ZG;Sword;;;;;;4;;Zin'rokh, Destroyer of Worlds;;295;;;28;196
-;;;;;;;;3.4;19357;twohand;;;BWL;Mace;;;;;;3;;Herald of Woe;;300;;31;22;199
+rand	ac	procchance	ppm	ap	defense	crit	skill	speed	id	slot	physdmg	offhand	source	type	dodge	hit	magicdmg	parry	Mainhand	phase	procspell	name	agi	maxdmg	procextra	str	sta	mindmg
+						2			12587	head			Dungeon							1		Eye of Rend				13	7	
+	175						6		20623	head			Emeriss	Dagger						4		Circlet of Restless Dreams	21				38	
+	739				6				21329	head			AQ40							5		Conqueror's Crown	18			29	34	
+	392			44		2			18817	head			MC							1		Crown of Destruction					23	
+	800				14				22418	head			Naxx		1					6		Dreadnaught Helmet				21	45	
+	95						7		9375	head			Other	Axe						1		Expert Goldminer's Helmet	5				6	
+	445					1			20521	head			Quest			1				3		Fury Visor				18		
+	661				7				21460	head			AQ20					1		5		Helm of Domination	11			21	28	
+	679								19372	head			BWL							3		Helm of Endless Rage	26			26	29	
+	556					1			21999	head			Quest							5		Helm of Heroism				18	32	
+	608				7				16866	head			MC		1					1		Helm of Might				15	35	
+	534								22411	head			Dungeon			2				1		Helm of the Executioner				14	20	
+	526								16731	head			Dungeon							1		Helm of Valor	9			15	23	
+	696				11				16963	head			Onyxia							1		Helm of Wrath				17	40	
+	565					2			12640	head			Crafting			2				1		Lionheart Helm				18		
+	123					1			13404	head			Dungeon			2				1		Mask of the Unforgiven					12	
+	598					1			23314	head			PVP			1				2		R10 Plate Helm				21	24	
+	719					1			16478	head			PVP							2		R13 Plate Helm				28	34	
+									19491	neck			Quest							3		Amulet of the Darkmoon	19			10	10	
+				44		1			21664	neck			AQ40							5		Barbed Choker					10	
+				24					22150	neck			Quest			1				5		Beads of Ogre Might					7	
+		100							17111	neck			Kazzak				3			2		Blazefury Medallion	14				13	
+				42					21505	neck			AQ20							5		Choker of the Shifting Sands					16	
+						1			18205	neck			Onyxia		1					1		Eskhandar's Collar					17	
+						1			21809	neck			AQ20			1				5		Fury of the Forgotten Swarm				8		
+				32					11933	neck			Dungeon							1		Imperial Jewel					7	
+				26		1			15411	neck			Quest							1		Mark of Fordring						
+						1			18404	neck			Onyxia			1				1		Onyxia Tooth Pendant	12				9	
+									22340	neck			Dungeon			1				5		Pendant of Celerity	15					
+									19377	neck			BWL			1				3		Prestor's Talisman of Connivery	30					
+				20		1			23023	neck			Naxx							6		Sadist's Collar					24	
+				26		2			23053	neck			Naxx							6		Stormrage's Talisman of Seething					12	
+				40		1			19856	neck			ZG							4		The Eye of Hakkar						
+				30					17044	neck			Quest							1		Will of the Martyr					10	
+	131								18374	shoulder			Dungeon							2		Flamescarred Shoulders	12			12	11	
+2158	530								20683	shoulder			Other			1				4		Abyssal Plate Epaulets	13			13	13	
+	553								20212	shoulder			PVP							4		Arathi Plate Spaulders	17			18	20	
+	266			40					15051	shoulder			Crafting							1		Black Dragonscale Shoulders					9	
+	552				3				19878	shoulder			ZG							4		Bloodsoaked Pauldrons	11			16	16	
+	659				4				21330	shoulder			AQ40			1				5		Conqueror's Spaulders	16			20	21	
+	634								19394	shoulder			BWL		1					3		Drake Talon Pauldrons	20			20	17	
+	722				9				22419	shoulder			Naxx			1				6		Dreadnaught Pauldrons				16	29	
+	562				5				16868	shoulder			MC							1		Pauldrons of Might				15	22	
+	650				9				21639	shoulder			AQ40		1					5		Pauldrons of the Unrelenting				11	30	
+	642				7				16961	shoulder			BWL							3		Pauldrons of Wrath				13	27	
+	530				7				21805	shoulder			AQ20							5		Polished Obsidian Pauldrons				16	17	
+	552					1			23315	shoulder			PVP							2		R10 Plate Shoulders				17	18	
+	626								16480	shoulder			PVP			1				2		R13 Plate Shoulders	16			18	23	
+	410								20517	shoulder			Quest			1				3		Razorsteel Shoulders	10			10	9	
+	507								22001	shoulder			Quest							5		Spaulders of Heroism	12			12	18	
+	470								16733	shoulder			Dungeon							1		Spaulders of Valor	9			11	17	
+	129			24					12927	shoulder			Dungeon			2				1		Truestrike Shoulders						
+	113								12082	shoulder			Quest			2				1		Wyrmhide Spaulders						
+	57			50					19398	back			BWL							3		Cloak of Firemaw					12	
+	45			20					13340	back			Dungeon							1		Cape of the Black Baron	15					
+	56								21701	back			AQ40			1				5		Cloak of Concentrated Hatred	16			11	15	
+	54								19436	back			BWL							3		Cloak of Draconic Might	16			16	4	
+	66								21710	back			AQ40							5		Cloak of the Fallen God	26			11	15	
+	59				6				21621	back			AQ40							5		Cloak of the Golden Hive	10			13	19	
+	50			34					20073	back			PVP							4		Cloak of the Honor Guard	5				11	
+	63			30					23030	back			Naxx			1				6		Cloak of the Scourge					23	
+	57								17102	back			MC							1		Cloak of the Shrouded Mists	22				12	
+	116								17107	back			MC							1		Dragon's Blood Cape				9	22	
+	52								21394	back			AQ20			1				5		Drape of Unyielding Strength	9			15	9	
+	44								21187	back			Quest			1				5		Earthweave Cloak	15					
+	51					1			18204	back			Kazzak							2		Eskhandar's Pelt					20	
+	114								18689	back			Dungeon							1		Phantasmal Cloak				12	11	
+	54			40					18541	back			Azuregos			1				2		Puissant Cape					12	
+	135				6				21456	back			AQ20		1					5		Sandstorm Cloak				12	12	
+	68			50		1			23045	back			Naxx							6		Shroud of Dominion					11	
+	43								13397	back			Dungeon							1		Stoneskin Gargoyle Cape	8			7	14	
+	43			24					19084	back			PVP							2		Stormpike Soldier's Cloak					11	
+	48								19907	back			ZG			1				4		Zulian Tigerhide Cloak	13				10	
+	50								20691	back			Other							4		Windshear Cape	15			8	14	
+	344			50					15050	chest			Crafting							1		Black Dragonscale Breastplate					8	
+	381					2			19690	chest			ZG							4		Bloodsoul Breastplate	9				13	
+	824					1			21814	chest			AQ40			1				4		Breastplate of Annihilation				37	13	
+	190					2			12757	chest			Quest		1					1		Breastplate of Bloodthirst				13	20	
+	684								21997	chest			Quest			1				5		Breastplate of Heroism	13			21	26	
+	749				7				16865	chest			MC							1		Breastplate of Might				20	28	
+	706								12895	chest			Quest							1		Breastplate of the Chromatic Flight	10			20	30	
+	657								16730	chest			Dungeon							1		Breastplate of Valor	10			15	24	
+	857				11				16966	chest			BWL							3		Breastplate of Wrath				17	40	
+	172			60					14637	chest			Dungeon							1		Cadaverous Armor	8			8		
+	985				6				21331	chest			AQ40							5		Conqueror's Breastplate	24			34	38	
+	338					2			11926	chest			Dungeon							1		Deathdealer Breastplate				8	8	
+	411					2			23226	chest			Naxx							6		Ghoul Skin Tunic				40	22	
+	814								19405	chest			BWL							3		Malfurion's Blessed Bulwark				40	22	
+	311			76		1			22191	chest			AQ20							5		Obsidian Mail Tunic						
+	365					1			18530	chest			Dungeon							2		Ogre Forged Hauberk	20			8	13	
+	953					1			23000	chest			Naxx			1				6		Plated Abomination Ribcage				45	25	
+	875					1			16477	chest			PVP							2		R13 Plate Armor	14			16	33	
+	706					1			23300	chest			PVP							2		R8 Plate Armor				21	23	
+	416			58		1			19904	chest			ZG							4		Runed Bloodstained Hauberk					19	
+	369					2			11726	chest			Dungeon							1		Savage Gladiator Chain	14			13	13	
+	828				4				19822	chest			ZG							4		Zandalar Vindicator's Breastplate	15			23	24	
+	174					2			13944	chest			Dungeon							1		Tombstone Breastplate				10	10	
+	229								21680	chest			AQ40							5		Vest of Swift Execution	41			21	20	
+2163	309								20687	wrist			Other							4		Abyssal Plate Vambraces	11			11	12	
+	287					1			12936	wrist			Dungeon			1				1		Battleborn Armbraces						
+	323								19578	wrist			PVP							3		Berserker Bracers	8			19	11	
+	375								16959	wrist			BWL							2		Bracelets of Wrath				13	27	
+	356								21457	wrist			AQ20							5		Bracers of Brutality	12			21	9	
+	296				3				21996	wrist			Quest							5		Bracers of Heroism	5			9	14	
+	328								16861	wrist			MC							1		Bracers of Might				11	23	
+	261								16735	wrist			Dungeon							1		Bracers of Valor	3			7	14	
+	309								21184	wrist			Quest							5		Deeprock Bracers	10			19	8	
+	287								18533	wrist			Dungeon							2		Gordok Bracers of Power				17	7	
+	384								21618	wrist			AQ40							5		Hive Defiler Wristguards	18			23		
+	103								21602	wrist			AQ40			1				5		Qiraji Execution Bracers	16			15	14	
+	87								21491	wrist			AQ20							5		Scaled Bracers of the Gorger	15			10	8	
+	304								19824	wrist			ZG							4		Zandalar Vindicator's Armguards	13			13	13	
+	270					1			13400	wrist			Dungeon							1		Vambraces of the Sadist				6	7	
+	86								19146	wrist			MC							1		Wristguards of Stability				24	8	
+	198								18812	wrist			MC			1				1		Wristguards of True Flight	19				11	
+	407					1			22936	wrist			Naxx							6		Wristguards of Vengeance				24	10	
+	130					1	5		18823	hands			MC	Dagger						1		Aged Core Leather Gloves				15	15	
+	103			28		1			15063	hands			Crafting							1		Devilsaur Gauntlets					9	
+	201						7		14551	hands			Other	Varied						1		Edgemaster's Handguards						
+	488			54		1			19143	hands			MC							1		Flameguard Gauntlets					13	
+	615					1			21581	hands			AQ40			1				5		Gauntlets of Annihilation				35	15	
+	393					1			21998	hands			Quest							5		Gauntlets of Heroism				18	12	
+	468				5				16863	hands			MC			1				1		Gauntlets of Might				22	17	
+	535				9				21674	hands			AQ40							5		Gauntlets of Steadfast Determination	18			19	20	
+	482				5				21479	hands			AQ20					1		5		Gauntlets of the Immovable				15	18	
+	386								16737	hands			Dungeon							1		Gauntlets of Valor	3			17	10	
+	535				7				16964	hands			BWL					1		3		Gauntlets of Wrath				15	20	
+	140								21672	hands			AQ40			1				5		Gloves of Enforcement	20			28	6	
+	532					1			16484	hands			PVP							2		R12 Plate Gauntlets				20	23	
+	429								23286	hands			PVP							2		R7 Gauntlets				17	17	
+	398					1			13162	hands			Dungeon							1		Reiver Claws				9	15	
+	441					1			22714	hands			ZG			1				4		Sacrificial Gauntlets				19		
+	441					1			12639	hands			Crafting					1		1		Stronghold Gauntlets					12	
+	221								13963	hands			Quest			2				1		Voone's Vice Grips	9				6	
+	279			44		1			19157	hands			Crafting							3		Chromatic Gauntlets						
+	369					1			20204	waist			PVP							2		Arathi Plate Girdle				17	10	
+	380				7				21994	waist			Quest							5		Belt of Heroism	9			15	12	
+	412				5				16864	waist			MC		1					1		Belt of Might				21	15	
+	142			64		1			21586	waist			AQ40			1				5		Belt of Never-ending Agony					20	
+	108								20216	waist			ZG			1				4		Belt of Preserved Heads	15			14	11	
+	408								20213	waist			ZG							4		Belt of Shrunken Heads	7			23	11	
+	494				5				21503	waist			AQ20							5		Belt of the Sand Reaver				17	18	
+	341								16736	waist			Dungeon							1		Belt of Valor	7			14	8	
+	369								13142	waist			Dungeon			1				1		Brigam Girdle				15	16	
+	536					1			23219	waist			Naxx			1				6		Girdle of the Mentor	20			21	21	
+	98					1	5		18505	waist			Dungeon	Dagger						2		Mugger's Belt					16	
+	353					1			13959	waist			Quest							1		Omokk's Girth Restrainer				15	9	
+	353								19087	waist			PVP							2		Frostwolf Plate Belt	7			18	8	
+	494					1			19137	waist			MC			1				1		Onslaught Girdle				31	11	
+	258					1			21463	waist			AQ20			1				5		Ossirian's Binding	20				19	
+	512				8				21598	waist			AQ40					1		5		Royal Qiraji Belt	13			13	22	
+	391					1			19823	waist			ZG							4		Zandalar Vindicator's Belt				25	10	
+	295			44		1			19380	waist			BWL							3		Therazane's Link					22	
+	476								21692	waist			AQ40							5		Triad Girdle	19			26	17	
+	482				7				16960	waist			BWL							3		Waistband of Wrath				20	20	
+2157	566					1			20671	legs			Other							4		Abyssal Plate Legplates	15			15	15	
+	320			54					15052	legs			Crafting							1		Black Dragonscale Leggings					8	
+	154					1			12963	legs			Dungeon		2	1				1		Blademaster Leggings	5					
+	674				10				19855	legs			ZG							4		Bloodsoaked Legplates				36	21	
+	150			52					14638	legs			Dungeon							1		Cadaverous Leggings					18	
+	617			0					14554	legs			Other							1		Cloudkeeper Legplates (Used last 30 secs)	20			20	20	
+	617			0					145541	legs			Other							1		Cloudkeeper Legplates (Not used)	20			20	20	
+	796				6				21332	legs			AQ40			1				5		Conqueror's Legguards	21			33	24	
+	296			48		2			20627	legs			Lethon							4		Dark Heart Pants					20	
+	148			46		1			15062	legs			Crafting							1		Devilsaur Leggings					12	
+	566					1			18380	legs			Dungeon							2		Eldritch Reinforced Legplates	9			15	20	
+	548								13498	legs			Dungeon							1		Handcrafted Mastersmith Leggings				29	12	
+	211					2			23071	legs			Naxx							6		Leggings of Apocalypse	31			15	23	
+	740								19402	legs			BWL							3		Legguards of the Fallen Crusader	22			28	22	
+	815					2			23068	legs			Naxx							6		Legplates of Carnage				42	18	
+	601				5				22000	legs			Quest							5		Legplates of Heroism	11			25	16	
+	655				7				16867	legs			MC					1		1		Legplates of Might				24	23	
+	644					2			21495	legs			AQ20							5		Legplates of the Qiraji Command				20	13	
+	557								16732	legs			Dungeon							1		Legplates of Valor	11			23	15	
+	749				11				16962	legs			MC		2					1		Legplates of Wrath				19	27	
+	743					2			16479	legs			PVP			1				2		R12 Plate Legguards				20	28	
+	618					2			23301	legs			PVP							2		R8 Plate Leggings				12	17	
+	427			62		2			21651	legs			AQ40							5		Scaled Sand Reaver Leggings					23	
+	646					1			22672	legs			PVP			1				6		Sentinel's Plate Legguards				28	27	
+	598					1			22385	legs			Crafting			2				5		Titanic Leggings				30		
+	452								20208	feet			PVP							4		Arathi Plate Greaves	12			14	12	
+									12555	feet			Other							1		Battlechaser's Greaves	13			14	8	
+	270			28					16984	feet			Crafting							1		Black Dragonscale Boots					10	
+	129								19906	feet			ZG			1				4		Blooddrenched Footpads	21				10	
+	247								14616	feet			Dungeon			1				1		Bloodmail Boots	9			9	10	
+	470								21995	feet			Quest			1				5		Boots of Heroism				20	20	
+	581								21688	feet			AQ40			1				5		Boots of the Fallen Hero	14			20	22	
+	286			44					19381	feet			BWL			2				3		Boots of the Shadow Flame					22	
+	138								21493	feet			AQ20							5		Boots of the Vanguard	22			22	11	
+	647				5				21706	feet			AQ40							5		Boots of the Unwavering Will	8			12	29	
+	424								16734	feet			Dungeon							1		Boots of Valor	4			8	20	
+	596								19387	feet			BWL			1				3		Chromatic Boots	20			20	19	
+	604				4				21333	feet			AQ40							5		Conqueror's Greaves	17			21	23	
+	116			40					13210	feet			Dungeon							1		Pads of the Dread Wolf					14	
+	592								16483	feet			PVP			1				2		R12 Plate Boots	12			18	24	
+	472								23287	feet			PVP							2		R7 Plate Boots	9			10	23	
+	515				5				16862	feet			MC							1		Sabatons of Might				15	26	
+	589				7				16965	feet			BWL							3		Sabatons of Wrath				13	30	
+	417								13070	feet			Other							1		Sapphiron's Scale Boots	9			14	14	
+	519								21490	feet			AQ20			1				5		Slime Kickers	12			18	12	
+	115								12553	feet			Dungeon							1		Swiftwalker Boots	21			4	7	
+	247								13967	feet			Dungeon			1				1		Windreaver Greaves	20					
+	233								11731	feet			Dungeon							1		Savage Gladiator Greaves	15			10	13	
+									19376	finger			BWL							3		Archimtiros' Ring of Reckoning	14				28	
+									17063	finger			MC			2				1		Band of Accuria	16				10	
+						1			21182	finger			Quest			1				5		Band of Earthen Might				6		
+									19925	finger			ZG			1				4		Band of Jin	14				8	
+									22961	finger			Naxx							6		Band of Reanimation	34				22	
+									18522	finger			Dungeon							2		Band of the Ogre King				14	13	
+				52		1			23038	finger			Naxx			1				6		Band of Unnatural Forces						
+				20					17713	finger			Dungeon			1				1		Blackstone Ring					6	
+									19432	finger			BWL							3		Circle of Applied Force	22			12	9	
+				16		1			19325	finger			PVP			1				2		Don Julio's Band					11	
+						1			12548	finger			Dungeon							1		Magni's Will				6	7	
+				48					19384	finger			BWL			1				3		Master Dragonslayer's Ring					14	
+									21189	finger			Quest			1				5		Might of Cenarius					8	
+				16		1			13098	finger			Dungeon							1		Painweaver Band					7	
+									19514	finger			PVP							3		Protector's Band	11			12	8	
+				30		1			18821	finger			MC							1		Quick Strike Ring				5	8	
+	100				9				21601	finger			AQ40							5		Ring of Emperor Vek'lor	12				18	
+				30					21477	finger			AQ20			1				5		Ring of Fury					9	
+									21596	finger			AQ40							5		Ring of the Godslayer	27				17	
+				40		1			21677	finger			AQ40							5		Ring of the Qiraji Fury					12	
+				20		1			19898	finger			ZG							4		Seal of Jin					8	
+				50		1			198981	finger			ZG			1				4		Seal of Jin + Band of Jin	14				16	
+				40					22722	finger			ZG							4		Seal of the Gurubashi Berserker					13	
+	140								23018	finger			Naxx			1				6		Signet of the Fallen Defender					24	
+						1			21393	finger			Quest							5		Signet of Unyielding Strength				11	14	
+									21205	finger			Quest			1				5		Signet Ring of the Bronze Dragonflight	24				13	
+									18500	finger			Dungeon			1				2		Tarnished Elven Ring	15					
+		50							21670	trinket			AQ40							5	Swarmguard	Badge of the Swarmguard (Assumed 50% proc chance) [TODO]						
+						2			13965	trinket			Quest							1		Blackhand's Breadth						
+				22					18537	trinket			Dungeon					1		2		Counterattack Lodestone						
+		2							19289	trinket			Quest				250			3		Darkmoon Card: Maelstrom (Assumed 2% proc chance)						
+									20130	trinket			Quest							3		Diamond Flask (Used last 60 seconds)						
+				56					19406	trinket			BWL		1	2				3		Drake Fang Talisman						
+									21180	trinket			Quest							5		Earthstrike (Used last 20 secs)						
+		2		20					11815	trinket			Dungeon							1		Hand of Justice			1			
+		2							22321	trinket			Dungeon				165			1		Heart of Wyrmthalak (Assumed 2% proc chance)						
+									23570	trinket			AQ40							5		Jom Gabbar (Used last 20 secs)						
+						1			22954	trinket			Naxx			1				6		Kiss of the Spider (Used last 15 secs)						
+				20					19120	trinket			Quest			1				1		Rune of the Guard Captain						
+				81					13209	trinket			Quest							1		Seal of the Dawn						
+				64					23041	trinket			Naxx							6		Slayer's Crest (Used last 20 secs)						
+									18680	ranged			Dungeon							1		Ancient Bone Bow	11					
+				22					21478	ranged			AQ20							5		Bow of Taut Sinew						
+									16996	ranged			Quest							1		Gorewood Bow	3			2	9	
+				24					19350	ranged			BWL							3		Heartstriker					9	
+									19993	ranged			ZG							4		Hoodoo Hunting Bow	10				4	
+									21616	ranged			AQ40							5		Huhuran's Stinger	18					
+				20					22318	ranged			Other							1		Malgen's Long Bow					4	
+									20038	ranged			ZG							4		Mandokir's Sting	11				8	
+				16		1			22811	ranged			Naxx							6		Soulstring					6	
+									19562	ranged			PVP							2		Outrunner's Bow	4				10	
+				22					12653	ranged			Dungeon							1		Riphook						
+									18323	ranged			Dungeon			1				2		Satyr's Bow	3					
+				22					17069	ranged			MC			1				1		Striker's Mark						
+									12651	ranged			Dungeon			1				1		Blackcrow	3					
+									19107	ranged			PVP							2		Bloodseeker	7			8		
+									18738	ranged			Dungeon							1		Carapace Spine Crossbow	4				9	
+									21459	ranged			AQ40			1				5		Crossbow of Imminent Doom	7			5	5	
+									22347	ranged			Quest			1				5		Fahrad's Reloading Repeater	4					
+									13040	ranged			Other							1		Heartseeking Crossbow	9				4	
+				24		1			22812	ranged			Naxx							6		Nerubian Slavemaker						
+				24					20599	ranged			Emeriss							4		Polished Ironwood Crossbow					5	
+				14					13039	ranged			Other							1		Skull Splitting Crossbow				3		
+						1			17072	ranged			MC							1		Blastershot Launcher					6	
+				10					13248	ranged			Other							1		Burstshot Harquebus					8	
+				20					20722	ranged			Other							4		Crystal Slugthrower					4	
+									19368	ranged			BWL							3		Dragonbreath Hand Cannon	14				7	
+				30					19853	ranged			ZG							4		Gurubashi Dwarf Destroyer						
+									13139	ranged			Other							1		Guttbuster	8			3		
+				18		1			23557	ranged			AQ40							5		Larvae of the Great Worm						
+									21800	ranged			AQ20							5		Silithid Husked Launcher	4				10	
+				28					22810	ranged			Naxx							6		Toxin Injector					10	
+				8					13380	ranged			Dungeon							1		Willey's Portable Howitzer					9	
+			1					2	19852	mainhand			ZG	Axe			113			4		Ancient Hakkari Manslayer		130				69
+			1					1.7	12798	mainhand			Crafting	Axe					True	1	Annihilator	Annihilator		92				49
+			0.8					2.7	811	mainhand			Other	Axe			108		True	1		Axe of the Deep Woods		146				78
+				14		1		2.6	21242	mainhand			AQ40	Axe						5		Blessed Qiraji War Axe		205			9	110
+								1.7	18737	mainhand			Dungeon	Axe						1		Bone Slicing Hatchet	13	90			5	48
+				36				2.3	19363	mainhand			BWL	Axe						3		Crul'Shorukh, Edge of Chaos		188			13	101
+								2.4	17016	mainhand			Crafting	Axe					True	1		Dark Iron Destroyer		134		10		71
+			0.8					2.9	17068	mainhand			Onyxia	Axe			138			1		Deathbringer		213				114
+								2.3	19362	mainhand			BWL	Axe						3		Doom's Edge	16	154		9	7	83
+			1.8					1.5	871	mainhand			Other	Axe						1		Flurry Axe		69	1			37
+								2.7	19103	mainhand			PVP	Axe						2		Frostbite		150		15		80
+				36		1		2.6	22816	mainhand			Naxx	Axe						6		Hatchet of Sundered Bone		221				119
+								2	13952	mainhand			Dungeon	Axe					True	1		Iceblade Hacker		111				58
+				28		1		2.9	18827	mainhand			PVP	Axe						2		R14 Axe		207			7	138
+	100							1.9	13015	mainhand			Other	Axe						1		Serathil		99		9		53
+					4			2.1	21392	mainhand			AQ20	Axe						5		Sickle of Unyielding Strength	6	141		15	9	75
+				28				2.5	20675	mainhand			Other	Axe						4		Soulrender		133				71
+193							2	2.4	19921	mainhand			ZG	Axe						4		Zulian Hacker of Strength		134		12		71
+690							2	2.4	199211	mainhand			ZG	Axe						4		Zulian Hacker of the Tiger	8	134		8		71
+			1					1.3	14555	mainhand			Other	Dagger			99			1		Alcor's Sunrazor		77				41
+								1.6	19166	mainhand			Crafting	Dagger						3		Black Amnesty		100				53
+				18		1		1.7	21244	mainhand			AQ40	Dagger		1				5		Blessed Qiraji Pugio		134			7	72
+				30				1.4	13368	mainhand			Dungeon	Dagger						1		Bonescraper		74				40
+				20		1		1.6	18805	mainhand			MC	Dagger						1		Core Hound Tooth		107			9	57
+			1					1.5	13984	mainhand			Quest	Dagger			99			1		Darrowspike		81				43
+				38			3	1.8	21126	mainhand			AQ40	Dagger						5		Death's Sting		144			10	95
+								1.8	19346	mainhand			BWL	Dagger						3		Dragonfang Blade	16	130			13	69
+			1					1.8	20578	mainhand			Ysondre	Dagger			97			4		Emerald Dragonfang	12	123				66
+				28		1		1.9	19859	mainhand			ZG	Dagger						4		Fang of the Faceless		123				66
+			1					1.7	12590	mainhand			Dungeon	Dagger						1	Felstriker	Felstriker		101				54
+								1.3	12709	mainhand			Dungeon	Dagger					True	1		Finkle's Skinner		70				37
+			1					1.8	19099	mainhand			PVP	Dagger			49			2		Glacial Blade	10	100				53
+			1					1.8	17071	mainhand			MC	Dagger			82			1		Gutgore Ripper		119				63
+						1		1.6	23044	mainhand			Naxx	Dagger		1				6		Harbinger of Doom	8	126			8	83
+						1		1.7	12783	mainhand			Crafting	Dagger						1		Heartseeker		92		4		49
+				28		1		2	18838	mainhand			PVP	Dagger						2		R14 Dagger		143			7	95
+						1		1.8	22802	mainhand			Naxx	Dagger		1				6		Kingsfall	16	158				105
+				36				1.8	22804	mainhand			Naxx	Dagger		1				6		Maexxna's Fang		141			8	94
+			1					1.8	18816	mainhand			MC	Dagger			53			1		Perdition's Blade		137				73
+				20				1.9	21498	mainhand			AQ20	Dagger						5		Qiraji Sacrificial Dagger		119			15	64
+								1.5	5267	mainhand			Other	Dagger						1		Scarlet Kris	10	81			10	43
+								1.7	19542	mainhand			PVP	Dagger						2		Scout's Blade	13	92			5	49
+								1.7	21522	mainhand			Quest	Dagger						5		Shadowsong's Sorrow	13	127		9	14	68
+			1					1.8	19324	mainhand	250		PVP	Dagger						2		The Lobotomizer		111				59
+								1.8	22377	mainhand			Quest	Dagger						5		The Thunderwood Poker	13	100			6	53
+						1		2.6	19365	mainhand			BWL	Fist					True	3		Claw of the Black Drake		191		13	7	102
+			1					1.5	18203	mainhand			MC	Fist					True	1	Eskhandar	Eskhandar's Right Claw	4	94				50
+				28		1		2.9	18844	mainhand			PVP	Fist					True	2		R14 Claw (MH)		207			7	138
+								1.5	22317	mainhand			Other	Fist						5		Lefty's Brass Knuckle	12	78		5		42
+				30		1		1.6	21673	mainhand			AQ40	Fist					True	5		Silithid Claw		120				64
+						1		2.2	19896	mainhand			ZG	Fist					True	4		Thekal's Grasp (1% chance on set)		135			13	72
+				10				2.6	22404	mainhand			Dungeon	Fist					True	1		Willey's Back Scratcher		136			12	73
+				32			4	1.8	21837	mainhand			AQ40	Mace						5		Anubisath Warhammer		123			7	66
+	70				8			2.1	21268	mainhand			AQ40	Mace						5		Blessed Qiraji War Hammer		166		10	12	89
+			0.5					2.3	19170	mainhand			Crafting	Mace			220			1		Ebon Hand		154			9	83
+			1.1					2.8	17112	mainhand			Kazzak	Mace					True	2	Empyrean	Empyrean Demolisher		175				94
+			0.8					2.4	11684	mainhand			Dungeon	Mace					True	1		Ironfoe		136	2			73
+	90							1.9	20580	mainhand			Green Dragons	Mace					True	4		Hammer of Bestial Fury		130		13	12	69
+				28		1		2.9	18865	mainhand			PVP	Mace						2		R14 Hammer		207			7	138
+								2.8	13006	mainhand			Other	Mace					True	1		Mass of McGowan		149		10	10	80
+			1					2.8	23221	mainhand			Naxx	Mace			125			6		Misplaced Servo Arm		238				128
+						1		2.7	22384	mainhand			Crafting	Mace		1			True	1		Persuader		161				86
+				20		1		2.6	21715	mainhand			AQ20	Mace						5		Sand Polished Hammer		181			9	97
+			1				2	2.6	19908	mainhand			ZG	Mace			78			4		Sceptre of Smiting		145				77
+					5			2.6	19335	mainhand			BWL	Mace					True	3		Spineshatter		184		9	16	99
+								2.7	19104	mainhand			PVP	Mace						2		Stormstrike Hammer		150		15		80
+				16		1		2.6	22808	mainhand			Naxx	Mace		1				6		The Castigator		221			9	119
+	120							2.2	18376	mainhand			Dungeon	Mace						2		Timeworn Mace		117		7	11	62
+				20		1		2.8	21650	mainhand			AQ40	Sword						5		Ancient Qiraji Ripper		214			11	114
+								1.8	19168	mainhand			Crafting	Sword				1		3		Blackguard		121			9	65
+	80				4			1.9	19867	mainhand			ZG	Sword					True	4		Bloodlord's Defender		119			15	64
+						1		2.5	18832	mainhand			MC	Sword						1		Brutality Blade	9	168		9		90
+				28				2.4	18484	mainhand			Dungeon	Sword						2		Cho'Rush's Blade		125				67
+								2.6	19352	mainhand			BWL	Sword						3		Chromatically Tempered Sword	14	198		14	7	106
+								2.6	19110	mainhand			PVP	Sword						2		Cold Forged Blade	5	140			13	75
+						1		2.8	12940	mainhand			Dungeon	Sword					True	1		Dal'Rend's Sacred Charge		151		4		81
+								2.4	17015	mainhand			Crafting	Sword					True	1		Dark Iron Reaver		134			10	71
+	60				5			1.8	19968	mainhand			ZG	Sword					True	4		Fiery Retributer		105		7		56
+				40				2.7	23054	mainhand			Naxx	Sword						6		Gressil, Dawn of Ruin		257			15	138
+				26		1		1.6	23014	mainhand			Naxx	Sword		1				6		Iblis, Blade of the Fallen Seraph		131				70
+						1		2.8	2244	mainhand			Other	Sword					True	1		Krol Blade		149		7	5	80
+							4	2.2	19351	mainhand			BWL	Sword				1		3		Maladath, Runed Blade of the Black Flight		162				86
+								1.8	15806	mainhand			Quest	Sword						1		Mirah's Song	9	87		9		57
+	70			32				2.7	20577	mainhand			Taerar	Sword						4		Nightmare Blade		185			9	99
+								2	18348	mainhand			Quest	Sword					True	2		Quel'Serrar		126			12	84
+				28		1		2.9	12584	mainhand			PVP	Sword						2		R14 Longsword		207			7	138
+				28		1		1.8	23456	mainhand			PVP	Sword						2		R14 Swift Blade		129			7	85
+								2.1	21520	mainhand			Quest	Sword						5		Ravencrest's Legacy	9	157		13	14	84
+				26				2.8	22378	mainhand			Quest	Sword						5		Ravenholdt Slicer		156			6	83
+			1.8					2.8	6622	mainhand			Other	Sword					True	1	Zeal	Sword of Zeal		151				81
+			1	12				2.5	19901	mainhand			ZG	Sword			84			4		Zulian Slicer		146				78
+			1					2.9	1728	mainhand			Other	Sword			165		True	1		Teebu's Blazing Longsword		178				96
+	140						6	1.5	23577	mainhand			Naxx	Sword						6		The Hungering Cold		143			14	76
+			1					2.7	17705	mainhand			Quest	Sword						1		Thrash Blade		124	1			66
+			6					1.9	19019	mainhand			MC	Sword			300			3		Thunderfury, Blessed Blade of the Windseeker	5	145			8	60
+				28		1		1.7	19865	mainhand			ZG	Sword					True	4		Warblade of the Hakkari (MH)		110				59
+	100							1.6	22806	mainhand			Naxx	Sword		1				6		Widow's Remorse		131			17	70
+			0.5					2.6	17075	mainhand	240		Onyxia	Sword						1		Vis'kag the Bloodletter		187				100
+								2.7	19554	mainhand			PVP	Sword						3		Protector's Sword		146		13	5	78
+			1					2.4	14487	mainhand			Dungeon	Mace			99			1		Bonechill Hammer		127				68
+								2.5	18683	mainhand			Dungeon	Mace						1		Hammer of the Vesper		131		7	12	70
+			1					2	19852	offhand			ZG	Axe			113			4		Ancient Hakkari Manslayer		130				69
+				14		1		2.6	21242	offhand			AQ40	Axe						5		Blessed Qiraji War Axe		205			9	110
+								1.7	18737	offhand			Dungeon	Axe						1		Bone Slicing Hatchet	13	90			5	48
+				36				2.3	19363	offhand			BWL	Axe						3		Crul'Shorukh, Edge of Chaos		188			13	101
+			0.8					2.9	17068	offhand			Onyxia	Axe			138			1		Deathbringer		213				114
+								2.3	19362	offhand			BWL	Axe						3		Doom's Edge	16	154		9	7	83
+			1.8					1.5	871	offhand			Other	Axe						1		Flurry Axe		69	1			37
+								2.7	19103	offhand			PVP	Axe						2		Frostbite		150		15		80
+				36		1		2.6	22816	offhand			Naxx	Axe						6		Hatchet of Sundered Bone		221				119
+				28		1		2.9	18827	offhand			PVP	Axe						2		R14 Axe		207			7	138
+	100							1.9	13015	offhand			Other	Axe						1		Serathil		99		9		53
+					4			2.1	21392	offhand			AQ20	Axe						5		Sickle of Unyielding Strength	6	141		15	9	75
+				28				2.5	20675	offhand			Other	Axe						5		Soulrender		133				71
+193							2	2.4	19921	offhand			ZG	Axe						4		Zulian Hacker of Strength		134		12		71
+690							2	2.4	199211	offhand			ZG	Axe						4		Zulian Hacker of the Tiger	8	134		8		71
+			1					1.3	14555	offhand			Other	Dagger			99			1		Alcor's Sunrazor		77				41
+								1.6	19166	offhand			Crafting	Dagger						3		Black Amnesty		100				53
+				18		1		1.7	21244	offhand			AQ40	Dagger		1				5		Blessed Qiraji Pugio		134			7	72
+				30				1.4	13368	offhand			Dungeon	Dagger						1		Bonescraper		74				40
+				20		1		1.6	18805	offhand			MC	Dagger						1		Core Hound Tooth		107			9	57
+			1					1.5	13984	offhand			Quest	Dagger			99			1		Darrowspike		81				43
+				38			3	1.8	21126	offhand			AQ40	Dagger						5		Death's Sting		144			10	95
+							6	1.3	18392	offhand		True	Dungeon	Dagger						2		Distracting Dagger		64				42
+								1.8	19346	offhand			BWL	Dagger						3		Dragonfang Blade	16	130			13	69
+			1					1.8	20578	offhand			Ysondre	Dagger			97			4		Emerald Dragonfang	12	123				66
+				28		1		1.9	19859	offhand			ZG	Dagger						4		Fang of the Faceless		123				66
+			1					1.7	12590	offhand			Dungeon	Dagger						1	Felstriker	Felstriker		101				54
+			1					1.8	19099	offhand			PVP	Dagger			49			2		Glacial Blade	10	100				53
+			1					1.8	17071	offhand			MC	Dagger			82			1		Gutgore Ripper		119				63
+						1		1.6	23044	offhand			Naxx	Dagger		1				6		Harbinger of Doom	8	126			8	83
+						1		1.7	12783	offhand			Crafting	Dagger						1		Heartseeker		92		4		49
+				28		1		2	18838	offhand			PVP	Dagger						2		R14 Dagger		143			7	95
+						1		1.8	22802	offhand			Naxx	Dagger		1				6		Kingsfall	16	158				105
+				36				1.8	22804	offhand			Naxx	Dagger		1				6		Maexxna's Fang		141			8	94
+			1					1.8	18816	offhand			MC	Dagger			53			1		Perdition's Blade		137				73
+				20				1.9	21498	offhand			AQ20	Dagger						5		Qiraji Sacrificial Dagger		119			15	64
+								1.5	5267	offhand			Other	Dagger						1		Scarlet Kris	10	81			10	43
+								1.7	19542	offhand			PVP	Dagger						2		Scout's Blade	13	92			5	49
+								1.7	21522	offhand			Quest	Dagger						5		Shadowsong's Sorrow	13	127		9	14	68
+			1					1.8	19324	offhand	250		PVP	Dagger						2		The Lobotomizer		111				59
+								1.8	22377	offhand			Quest	Dagger						5		The Thunderwood Poker	13	100			6	53
+			1					1.5	19910	offhand		True	ZG	Fist			77			4		Arlokk's Grasp (1% chance on set)		84				41
+				22		1		1.5	23242	offhand		True	Naxx	Fist		1				6		Claw of the Frost Wyrm		140			8	75
+								1.5	18202	offhand		True	Azuregos	Fist						2		Eskhandar's Left Claw	4	94				50
+				28		1		2.9	18848	offhand		True	PVP	Fist						2		R14 Claw (OH)		207			7	138
+								1.5	22317	offhand			Other	Fist						5		Lefty's Brass Knuckle	12	78		5		42
+				32			4	1.8	21837	offhand			AQ40	Mace						5		Anubisath Warhammer		123			7	66
+	70				8			2.1	21268	offhand			AQ40	Mace						5		Blessed Qiraji War Hammer		166		10	12	89
+			1					2.3	19170	offhand			Crafting	Mace			220			3		Ebon Hand		154			9	83
+				28		1		2.9	18865	offhand			PVP	Mace						2		R14 Hammer		207			7	138
+			1					2.8	23221	offhand			Naxx	Mace			125			6		Misplaced Servo Arm		238				128
+				20		1		2.6	21715	offhand			AQ20	Mace						5		Sand Polished Hammer		181			9	97
+			1				2	2.6	19908	offhand			ZG	Mace			78			4		Sceptre of Smiting		145				77
+								2.7	19104	offhand			PVP	Mace						2		Stormstrike Hammer		150		15		80
+				16		1		2.6	22808	offhand			Naxx	Mace		1				6		The Castigator		221			9	119
+	120							2.2	18376	offhand			Dungeon	Mace						2		Timeworn Mace		117		7	11	62
+				20		1		2.8	21650	offhand			AQ40	Sword						5		Ancient Qiraji Ripper		214			11	114
+								1.8	19168	offhand			Crafting	Sword				1		3		Blackguard		121			9	65
+						1		2.5	18832	offhand			MC	Sword						1		Brutality Blade	9	168		9		90
+				28				2.4	18484	offhand			Dungeon	Sword						2		Cho'Rush's Blade		125				67
+								2.6	19352	offhand			BWL	Sword						3		Chromatically Tempered Sword	14	198		14	7	106
+								2.6	19110	offhand			PVP	Sword						2		Cold Forged Blade	5	140			13	75
+	100				7			1.8	12939	offhand		True	Dungeon	Sword						1		Dal'Rend's Tribal Guardian		97				52
+				40				2.7	23054	offhand			Naxx	Sword						6		Gressil, Dawn of Ruin		257			15	138
+				26		1		1.6	23014	offhand			Naxx	Sword		1				6		Iblis, Blade of the Fallen Seraph		131				70
+							4	2.2	19351	offhand			BWL	Sword				1		3		Maladath, Runed Blade of the Black Flight		162				86
+								1.8	15806	offhand			Quest	Sword						1		Mirah's Song	9	87		9		57
+	70			32				2.7	20577	offhand			Taerar	Sword						4		Nightmare Blade		185			9	99
+				28		1		2.9	12584	offhand			PVP	Sword						2		R14 Longsword		207			7	138
+				28		1		1.8	23456	offhand			PVP	Sword						2		R14 Swift Blade		129			7	85
+								2.1	21520	offhand			Quest	Sword						5		Ravencrest's Legacy	9	157		13	14	84
+				26				2.8	22378	offhand			Quest	Sword						5		Ravenholdt Slicer		156			6	83
+			1	12				2.5	19901	offhand			ZG	Sword			84			4		Zulian Slicer		146				78
+	140						6	1.5	23577	offhand			Naxx	Sword						6		The Hungering Cold		143			14	76
+			1					2.7	17705	offhand			Quest	Sword						1		Thrash Blade		124	1			66
+			8					1.9	19019	offhand			MC	Sword			300			3		Thunderfury, Blessed Blade of the Windseeker	5	145			8	60
+				40				1.7	19866	offhand		True	ZG	Sword						4		Warblade of the Hakkari (OH)		106				57
+	100							1.6	22806	offhand			Naxx	Sword		1				6		Widow's Remorse		131			17	70
+			0.8					2.6	17075	offhand	240		Onyxia	Sword						1		Vis'kag the Bloodletter		187				100
+								2.7	19554	offhand			PVP	Sword						3		Protector's Sword		146		13	5	78
+			1					2.4	14487	offhand			Dungeon	Mace			99			1		Bonechill Hammer		127				68
+								2.5	18683	offhand			Dungeon	Mace						1		Hammer of the Vesper		131		7	12	70
+				62				3.8	12784	twohand			Crafting	Axe						1		Arcanite Reaper		256			13	153
+			1					2.1	1263	twohand	250		Other	Axe						1		Brain Hacker		143				95
+								3.5	21134	twohand			AQ40	Axe						5		Dark Edge of Insanity	19	364		35	25	242
+								3.2	19354	twohand			BWL	Axe						3		Draconic Avenger		262		21	18	174
+			1					3.4	19353	twohand	240		BWL	Axe						3		Drake Talon Cleaver		300		22	17	199
+				30		1		3.7	11931	twohand			Dungeon	Axe						1		Dreadforge Retaliator		225				149
+								3.4	13983	twohand			Dungeon	Axe						1		Gravestone War Axe		217				144
+								3.9	19962	twohand			ZG	Axe						4		Gri'lek's Carver		274				182
+						1		3.8	18831	twohand			PVP	Axe						2		R14 Battle Axe		353		26	41	235
+				26				3.1	18759	twohand			Dungeon	Axe						1		Malicious Axe		197			30	131
+			1					3.7	21856	twohand			Naxx	Axe			152			6		Neretzek, The Blood Drinker		303		21	16	202
+								3.5	19169	twohand			Crafting	Axe						1		Nightfall		282				187
+						2		3.6	22815	twohand			Naxx	Axe						6		Severance		354		43	18	235
+				34				3.4	17104	twohand			MC	Axe						1		Spinal Reaper		305				203
+			1					4	13285	twohand	100		Dungeon	Axe						1		The Nicker		239				159
+						2		2.7	18538	twohand			Dungeon	Axe						2		Treant's Bane		193		25	15	128
+				44		1		2.8	19900	twohand			ZG	Axe						4		Zulian Stone Axe		197				131
+						1		3	18420	twohand			Quest	Mace						2		Bonecrusher		194		30		129
+						2		3.9	20696	twohand			Other	Mace						4		Crystal Spiked Maul		252		16		168
+								3.8	22348	twohand			Quest	Mace		1				5		Doomulus Prime		265		22	22	158
+						2		3.5	19358	twohand			BWL	Mace						3		Draconic Maul		282		27	19	187
+				22				3.5	17073	twohand			MC	Mace						1		Earthshaker		263				175
+								3.3	13167	twohand			Dungeon	Mace						1		Fist of Omokk		204		29	12	135
+								3.8	12796	twohand			Crafting	Mace						1		Hammer of the Titans		246		15		163
+						1		3.8	18868	twohand			PVP	Mace						2		R14 Pulverizer		353		26	41	235
+			1					3.6	19918	twohand	210		ZG	Mace						4		Jeklik's Crusher		248				159
+						2		3.8	22798	twohand			Naxx	Mace						6		Might of Menethil		435		20	46	289
+								3.6	12969	twohand			Dungeon	Mace						1		Seeping Willow		233				155
+			0.7					3.7	17182	twohand			MC	Mace			333			1		Sulfuras, Hand of Ragnaros		372		12	12	223
+			1					3.7	17193	twohand			MC	Mace			101			1		Sulfuron Hammer		295				175
+						2		3.8	19323	twohand			PVP	Mace						2		The Unstoppable Force		292		19	15	175
+								2	9449	twohand			Other	Mace						1		Manual Crowd Pummeler (Used last 30 secs)	5	70		16		46
+								3.7	21635	twohand			AQ40	Polearm						5		Barb of the Sand Reaver	41	338			31	225
+						1		2.1	19167	twohand			Crafting	Polearm						3		Blackfury		158		35	15	105
+			1					3.5	12583	twohand	432		Dungeon	Polearm						1		Blackhand Doomsaw		227				151
+			1					3.5	19874	twohand	564		ZG	Polearm						4		Halberd of Smiting		263				175
+								3.6	22314	twohand			Dungeon	Polearm						2		Huntsman's Harpoon	35	226				150
+						1		3.8	18871	twohand			PVP	Polearm						2		R14 Polearm		353		26	41	235
+								3.6	19106	twohand			Quest	Polearm						2		Ice Barbed Spear	21	233		13	20	155
+								2.9	18502	twohand			Dungeon	Polearm						2		Monstrous Glaive		185			23	123
+			1					3.1	17223	twohand			MC	Polearm			200			1		Thunderstrike		221				147
+				56		1		3.4	18725	twohand			Dungeon	Polearm						1		Peacemaker		206				137
+								3.5	19963	twohand			ZG	Polearm						4		Pitchfork of Madness		246				163
+								3.7	20660	twohand			Other	Polearm						4		Stonecutting Glaive	12	228		29		152
+								3.7	23039	twohand			Naxx	Polearm						6		The Eye of Nerub	45	378			22	251
+								3.3	19946	twohand			ZG	Polearm		2				4		Tigule's Harpoon		232			20	154
+				86				3.5	19364	twohand			BWL	Sword						3		Ashkandi, Greatsword of the Brotherhood		344			33	229
+				60		1		3.2	18520	twohand			Dungeon	Sword						2		Barbarous Blade		207				138
+								3.5	12592	twohand			Dungeon	Sword						1		Blackblade of Shahram		250				166
+								2.1	2801	twohand			Other	Sword						1		Blade of Hanna	11	152		11	11	101
+			2			1		3.4	17076	twohand			MC	Sword						1	Bonereaver	Bonereaver's Edge		310			16	206
+				98				3.6	22813	twohand			Naxx	Sword						6		Claymore of Unholy Might		354			20	235
+			1			2		3.6	22691	twohand			Naxx	Sword		1	200			6		Corrupted Ashbringer		389				259
+				54				3.6	20669	twohand			Other	Sword						4		Darkstone Claymore		229			17	152
+			1					2.6	647	twohand			Other	Sword						1	Destiny	Destiny		168				112
+						1		3.8	18877	twohand			PVP	Sword						2		R14 Greatsword		353		26	41	235
+			1					3.2	21679	twohand			AQ40	Sword			258			5		Kalimdor's Revenge		315		24	18	209
+								3.6	21492	twohand			AQ20	Sword						5		Manslayer of the Qiraji	15	270		35	20	180
+							8	3.4	18822	twohand			MC	Sword						1		Obsidian Edged Blade		264		42		176
+								3.3	13163	twohand			Dungeon	Sword						1		Relentless Scythe	8	210		20	8	140
+								3.6	13505	twohand			Dungeon	Sword						1		Runeblade of Baron Rivendare		257				171
+			1					3.4	19334	twohand			BWL	Sword						3	Untamed	The Untamed Blade	22	289			16	192
+								2.9	18542	twohand			Azuregos	Sword						2		Typhoon	20	225		14	10	150
+								3.3	13982	twohand			Quest	Sword						1		Warblade of Caer Darrow		236				143
+				72				3.8	19854	twohand			ZG	Sword						4		Zin'rokh, Destroyer of Worlds		295			28	196
+								3.4	19357	twohand			BWL	Mace						3		Herald of Woe		300		31	22	199
