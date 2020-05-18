@@ -1,5 +1,95 @@
 <loothistory>
     <lootentry>
+        <player>Rewrench</player>
+        <itemname>Mish'undare, Circlet of the Mind Flayer</itemname>
+        <itemnumber>19375</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Nefarian</boss>
+        <timestamp>1589400990</timestamp>
+        <cost>-71</cost>
+    </lootentry>
+    <lootentry>
+        <player>Baloosan</player>
+        <itemname>Head of Nefarian</itemname>
+        <itemnumber>19002</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Nefarian</boss>
+        <timestamp>1589400822</timestamp>
+        <cost>-6</cost>
+    </lootentry>
+    <lootentry>
+        <player>Antiel</player>
+        <itemname>Netherwind Robes</itemname>
+        <itemnumber>16916</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Nefarian</boss>
+        <timestamp>1589400779</timestamp>
+        <cost>-1</cost>
+    </lootentry>
+    <lootentry>
+        <player>Howzít</player>
+        <itemname>Robes of Transcendence</itemname>
+        <itemnumber>16923</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Nefarian</boss>
+        <timestamp>1589400721</timestamp>
+        <cost>-38</cost>
+    </lootentry>
+    <lootentry>
+        <player>Scronk</player>
+        <itemname>Ashkandi, Greatsword of the Brotherhood</itemname>
+        <itemnumber>19364</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Nefarian</boss>
+        <timestamp>1589400671</timestamp>
+        <cost>-15</cost>
+    </lootentry>
+    <lootentry>
+        <player>Kernow</player>
+        <itemname>Stormrage Pauldrons</itemname>
+        <itemnumber>16902</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Chromaggus</boss>
+        <timestamp>1589399853</timestamp>
+        <cost>-1</cost>
+    </lootentry>
+    <lootentry>
+        <player>Ponin</player>
+        <itemname>Angelista's Grasp</itemname>
+        <itemnumber>19388</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Chromaggus</boss>
+        <timestamp>1589398342</timestamp>
+        <cost>-15</cost>
+    </lootentry>
+    <lootentry>
+        <player>Baloosan</player>
+        <itemname>Styleen's Impeding Scarab</itemname>
+        <itemnumber>19431</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Flamegor</boss>
+        <timestamp>1589397877</timestamp>
+        <cost>-1</cost>
+    </lootentry>
+    <lootentry>
+        <player>Mjölkbudet</player>
+        <itemname>Drake Fang Talisman</itemname>
+        <itemnumber>19406</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Ebonroc</boss>
+        <timestamp>1589397592</timestamp>
+        <cost>-64</cost>
+    </lootentry>
+    <lootentry>
+        <player>Hadeen</player>
+        <itemname>Primalist's Linked Legguards</itemname>
+        <itemnumber>19401</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Firemaw</boss>
+        <timestamp>1589396422</timestamp>
+        <cost>-2</cost>
+    </lootentry>
+    <lootentry>
         <player>Wintermute</player>
         <itemname>Drake Talon Pauldrons</itemname>
         <itemnumber>19394</itemnumber>
@@ -1708,95 +1798,5 @@
         <boss>Garr</boss>
         <timestamp>1586198116</timestamp>
         <cost>0</cost>
-    </lootentry>
-    <lootentry>
-        <player>Zquish</player>
-        <itemname>Drillborer Disk</itemname>
-        <itemnumber>17066</itemnumber>
-        <zone>Molten Core</zone>
-        <boss>Garr</boss>
-        <timestamp>1586198011</timestamp>
-        <cost>-2</cost>
-    </lootentry>
-    <lootentry>
-        <player>Kronan</player>
-        <itemname>Mana Igniting Cord</itemname>
-        <itemnumber>19136</itemnumber>
-        <zone>Molten Core</zone>
-        <boss>Garr</boss>
-        <timestamp>1586197838</timestamp>
-        <cost>-20</cost>
-    </lootentry>
-    <lootentry>
-        <player>Xarxasas</player>
-        <itemname>Heavy Dark Iron Ring</itemname>
-        <itemnumber>18879</itemnumber>
-        <zone>Molten Core</zone>
-        <boss>Gehennas</boss>
-        <timestamp>1586197474</timestamp>
-        <cost>-5</cost>
-    </lootentry>
-    <lootentry>
-        <player>Slashylarry</player>
-        <itemname>Nightslayer Gloves</itemname>
-        <itemnumber>16826</itemnumber>
-        <zone>Molten Core</zone>
-        <boss>Gehennas</boss>
-        <timestamp>1586197427</timestamp>
-        <cost>0</cost>
-    </lootentry>
-    <lootentry>
-        <player>Kromlok</player>
-        <itemname>Eskhandar's Right Claw</itemname>
-        <itemnumber>18203</itemnumber>
-        <zone>Molten Core</zone>
-        <boss>Magmadar</boss>
-        <timestamp>1586197219</timestamp>
-        <cost>-1</cost>
-    </lootentry>
-    <lootentry>
-        <player>Loren</player>
-        <itemname>Legplates of Might</itemname>
-        <itemnumber>16867</itemnumber>
-        <zone>Molten Core</zone>
-        <boss>Magmadar</boss>
-        <timestamp>1586197166</timestamp>
-        <cost>-1</cost>
-    </lootentry>
-    <lootentry>
-        <player>Stains</player>
-        <itemname>Striker's Mark</itemname>
-        <itemnumber>17069</itemnumber>
-        <zone>Molten Core</zone>
-        <boss>Magmadar</boss>
-        <timestamp>1586197055</timestamp>
-        <cost>-8</cost>
-    </lootentry>
-    <lootentry>
-        <player>Muggins</player>
-        <itemname>Head of Nefarian</itemname>
-        <itemnumber>19002</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Nefarian</boss>
-        <timestamp>1585772626</timestamp>
-        <cost>-24</cost>
-    </lootentry>
-    <lootentry>
-        <player>Muggins</player>
-        <itemname>Therazane's Link</itemname>
-        <itemnumber>19380</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Nefarian</boss>
-        <timestamp>1585772587</timestamp>
-        <cost>-3</cost>
-    </lootentry>
-    <lootentry>
-        <player>Kromlok</player>
-        <itemname>Breastplate of Wrath</itemname>
-        <itemnumber>16966</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Nefarian</boss>
-        <timestamp>1585772544</timestamp>
-        <cost>-2</cost>
     </lootentry>
 </loothistory>
