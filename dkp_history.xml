@@ -1,5 +1,11 @@
 <dkphistory>
     <historyentry>
+        <playerstring>Kernow,Zentar,Matska,Compulsive,Kronan,Jubjob,Lools,Wanda,Milkytea,Antiel,Koffkoff,Ninex,Ember,Howzít,Deadrunner,Triox,Slashylarry,Stains,Juggins,Hym,Kattbussen,Hadeen,Kittara,Gurbak,Rewrench,Ponin,Köf,Mezah,Murklar,Muggins,Baloosan,Wintermute,Kalaspuffen,Kromlok,Scronk,Loren,Zquish,Seradan,Mjölkbudet,</playerstring>
+        <dkp>10</dkp>
+        <timestamp>1589400824</timestamp>
+        <reason>Raid Completion Bonus</reason>
+    </historyentry>
+    <historyentry>
         <playerstring>Rewrench,</playerstring>
         <dkp>-1</dkp>
         <timestamp>1589396281</timestamp>
@@ -1192,11 +1198,5 @@
         <dkp>-1</dkp>
         <timestamp>1576702314</timestamp>
         <reason>Other - For fire gloves</reason>
-    </historyentry>
-    <historyentry>
-        <playerstring>Kronan,</playerstring>
-        <dkp>5</dkp>
-        <timestamp>1576523886</timestamp>
-        <reason>Onyxia's Lair: Onyxia</reason>
     </historyentry>
 </dkphistory>
