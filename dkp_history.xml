@@ -1,5 +1,71 @@
 <dkphistory>
     <historyentry>
+        <playerstring>Dengur,Spaktula,</playerstring>
+        <dkp>5</dkp>
+        <timestamp>1590008570</timestamp>
+        <reason>Raid Completion Bonus</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Kernow,Mjölkbudet,Matska,Zentar,Milkytea,Lools,Antiel,Kronan,Wanda,Arcere,Koffkoff,Ninex,Köttspöket,Howzít,Deadrunner,Ember,Juggins,Stains,Slashylarry,Stealtystabb,Hym,Gurbak,Kittara,Kattbussen,Hadeen,Rewrench,Murklar,Mezah,Köf,Wintermute,Baloosan,Azarock,Scronk,Zquish,Seradan,Kromlok,Kalaspuffen,Loren,</playerstring>
+        <dkp>10</dkp>
+        <timestamp>1590008565</timestamp>
+        <reason>Raid Completion Bonus</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Zquish,</playerstring>
+        <dkp>-79</dkp>
+        <timestamp>1590008421</timestamp>
+        <reason>Other - Onslught</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Koffkoff,</playerstring>
+        <dkp>1</dkp>
+        <timestamp>1590007837</timestamp>
+        <reason>Other - Refund staff</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Scronk,</playerstring>
+        <dkp>-1</dkp>
+        <timestamp>1590007523</timestamp>
+        <reason>Other - T1 chest</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Dengur,</playerstring>
+        <dkp>-1</dkp>
+        <timestamp>1590006458</timestamp>
+        <reason>Other - Ring</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Scronk,</playerstring>
+        <dkp>-1</dkp>
+        <timestamp>1590003912</timestamp>
+        <reason>Other - Handcannon</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Slashylarry,</playerstring>
+        <dkp>32</dkp>
+        <timestamp>1590003398</timestamp>
+        <reason>Other - Refund neck</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Hadeen,</playerstring>
+        <dkp>5</dkp>
+        <timestamp>1589999924</timestamp>
+        <reason>Other - Refund sheild</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Antiel,Aradia,Arcere,Ariena,Awesomesauce,Azarock,Baloosan,Brianshaw,Briter,Caato,Compulsive,Deadrunner,Dusthoof,Elreyamorim,Ember,Guangzhou,Gurbak,Hadeen,Howzít,Hym,Jetixx,Jezzlerozzle,Jubjob,Juggins,Kalaspuffen,Kattbussen,Kazumi,Kernow,Kittara,Koffkoff,Kromlok,Kronan,Kàl,Köf,Köttspöket,Lools,Loren,Matska,Mezah,Milkytea,Mjölkbudet,Muggins,Murklar,Necrohunter,Neferhetepes,Ninex,Nsage,Placeboo,Ponin,Rewrench,Scronk,Seradan,Slashylarry,Snusse,Stains,Talanah,Tnem,Triox,Valjah,Wanda,Warlicknight,Wintermute,Xarxasas,Zentar,Zquish,Dengur,Stealtystabb,</playerstring>
+        <dkp>-6,-3,-4,-4,-1,-5,-4,-1,-1,-6,-8,-3,-1,-1,-5,-1,-9,-7,-5,-7,-1,-2,-2,-13,-4,-7,-2,-5,-8,-7,-4,-1,-1,-3,-5,-11,-9,-12,-7,-5,-2,-4,-11,-1,-1,-4,-0,-0,-5,-4,-5,-10,-4,-1,-8,-7,-3,-5,-6,-9,-1,-6,-1,-13,-12,-1,-1,-10%</dkp>
+        <timestamp>1589829987</timestamp>
+        <reason>Weekly Decay</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Kernow,Mjölkbudet,Zentar,Matska,Compulsive,Antiel,Lools,Jubjob,Kronan,Arcere,Wanda,Ninex,Koffkoff,Deadrunner,Howzít,Stains,Slashylarry,Stealtystabb,Hym,Juggins,Gurbak,Hadeen,Dengur,Kittara,Ponin,Rewrench,Mezah,Murklar,Köf,Seradan,Azarock,Zquish,Scronk,Wintermute,Kromlok,Baloosan,Kalaspuffen,Loren,Milkytea,</playerstring>
+        <dkp>10</dkp>
+        <timestamp>1589829982</timestamp>
+        <reason>Raid Completion Bonus</reason>
+    </historyentry>
+    <historyentry>
         <playerstring>Kernow,Zentar,Matska,Compulsive,Kronan,Jubjob,Lools,Wanda,Milkytea,Antiel,Koffkoff,Ninex,Ember,Howzít,Deadrunner,Triox,Slashylarry,Stains,Juggins,Hym,Kattbussen,Hadeen,Kittara,Gurbak,Rewrench,Ponin,Köf,Mezah,Murklar,Muggins,Baloosan,Wintermute,Kalaspuffen,Kromlok,Scronk,Loren,Zquish,Seradan,Mjölkbudet,</playerstring>
         <dkp>10</dkp>
         <timestamp>1589400824</timestamp>
@@ -1132,71 +1198,5 @@
         <dkp>10</dkp>
         <timestamp>1577915378</timestamp>
         <reason>Raid Completion Bonus</reason>
-    </historyentry>
-    <historyentry>
-        <playerstring>Dusthoof,</playerstring>
-        <dkp>-1</dkp>
-        <timestamp>1577913576</timestamp>
-        <reason>Other - For fireguard shoulders</reason>
-    </historyentry>
-    <historyentry>
-        <playerstring>Nonserviam,</playerstring>
-        <dkp>-44</dkp>
-        <timestamp>1577904294</timestamp>
-        <reason>Other - Change of main (to Kal)</reason>
-    </historyentry>
-    <historyentry>
-        <playerstring>Kàl,</playerstring>
-        <dkp>44</dkp>
-        <timestamp>1577904278</timestamp>
-        <reason>Other - Change of main (Nonserviam)</reason>
-    </historyentry>
-    <historyentry>
-        <playerstring>Antiel,Aradia,Ariena,Awesomesauce,Azarock,Brianshaw,Briter,Caato,Compulsive,Deadrunner,Dusthoof,Elreyamorim,Ember,Guangzhou,Hadeen,Howzìt,Hym,Jetixx,Jezzlerozzle,Juggins,Kalaspuffen,Kattbussen,Kittara,Koffkoff,Korvgrefven,Kronan,Lools,Mezah,Milkytea,Mjölkbudet,Muggins,Murklar,Necrohunter,Neferhetepes,Ninex,Nonserviam,Nsage,Placeboo,Ponin,Rewrench,Scroggleton,Seradan,Snusse,Talanah,Tnem,Triox,Valjah,Wanda,Warlicknight,Wintermute,Xarxasas,Zquish,</playerstring>
-        <dkp>-2,-3,-3,-3,-4,-4,-2,-2,-1,-2,-3,-1,-4,-1,-1,-2,-1,-2,-4,-3,-5,-5,-3,-7,-2,-1,-2,-1,-1,-6,-3,-3,-3,-2,-6,-5,-1,-1,-4,-6,-6,-1,-4,-1,-4,-3,-3,-1,-2,-4,-4,-4,-10%</dkp>
-        <timestamp>1577810755</timestamp>
-        <reason>Weekly Decay</reason>
-    </historyentry>
-    <historyentry>
-        <playerstring>Zquish,</playerstring>
-        <dkp>5</dkp>
-        <timestamp>1577741393</timestamp>
-        <reason>Raid Completion Bonus</reason>
-    </historyentry>
-    <historyentry>
-        <playerstring>Mjölkbudet,Xarxasas,Compulsive,Howzìt,Caato,Nonserviam,Kronan,Wanda,Antiel,Lools,Aradia,Koffkoff,Ninex,Ember,Scroggleton,Deadrunner,Triox,Hym,Kittara,Jezzlerozzle,Ariena,Rewrench,Ponin,Mezah,Murklar,Wintermute,Valjah,Kalaspuffen,Azarock,Dusthoof,Seradan,Muggins,</playerstring>
-        <dkp>10</dkp>
-        <timestamp>1577741384</timestamp>
-        <reason>Raid Completion Bonus</reason>
-    </historyentry>
-    <historyentry>
-        <playerstring>Antiel,Aradia,Ariena,Awesomesauce,Azarock,Brianshaw,Briter,Caato,Compulsive,Deadrunner,Dusthoof,Elreyamorim,Ember,Guangzhou,Hadeen,Howzìt,Hym,Jetixx,Jezzlerozzle,Juggins,Kalaspuffen,Kattbussen,Kittara,Koffkoff,Korvgrefven,Kronan,Lools,Mezah,Milkytea,Mjölkbudet,Muggins,Murklar,Necrohunter,Neferhetepes,Ninex,Nonserviam,Nsage,Placeboo,Ponin,Rewrench,Scroggleton,Seradan,Snusse,Talanah,Tnem,Triox,Valjah,Wanda,Warlicknight,Wintermute,Xarxasas,Zquish,</playerstring>
-        <dkp>-2,-3,-2,-3,-3,-5,-2,-5,-5,-2,-2,-1,-4,-1,-1,-3,-3,-2,-3,-3,-5,-5,-6,-6,-2,-2,-1,-2,-1,-5,-7,-2,-3,-2,-5,-4,-1,-1,-3,-8,-5,-1,-4,-1,-5,-6,-2,-3,-2,-3,-3,-4,-10%</dkp>
-        <timestamp>1577129482</timestamp>
-        <reason>Weekly Decay</reason>
-    </historyentry>
-    <historyentry>
-        <playerstring>Mjölkbudet,</playerstring>
-        <dkp>-1</dkp>
-        <timestamp>1577129448</timestamp>
-        <reason>Other - for ring of binding</reason>
-    </historyentry>
-    <historyentry>
-        <playerstring>Rewrench,Muggins,Koffkoff,Kittara,Triox,Mjölkbudet,Ninex,Scroggleton,Caato,Kalaspuffen,Nonserviam,Zquish,Ember,Aradia,Hym,Xarxasas,Ponin,Howzìt,Azarock,Wintermute,Ariena,Mezah,Briter,Antiel,Murklar,Korvgrefven,Kronan,Seradan,</playerstring>
-        <dkp>5</dkp>
-        <timestamp>1577128957</timestamp>
-        <reason>Onyxia's Lair: Onyxia</reason>
-    </historyentry>
-    <historyentry>
-        <playerstring>Zquish,Kalaspuffen,Muggins,Valjah,Seradan,Azarock,Brianshaw,Wintermute,Mezah,Talanah,Ponin,Rewrench,Korvgrefven,Ariena,Kattbussen,Hadeen,Jezzlerozzle,Briter,Juggins,Hym,Triox,Scroggleton,Ninex,Ember,Wanda,Kronan,Milkytea,Lools,Nonserviam,Howzìt,Compulsive,Snusse,Mjölkbudet,Tnem,Xarxasas,</playerstring>
-        <dkp>10</dkp>
-        <timestamp>1576703137</timestamp>
-        <reason>Raid Completion Bonus</reason>
-    </historyentry>
-    <historyentry>
-        <playerstring>Wanda,</playerstring>
-        <dkp>-1</dkp>
-        <timestamp>1576702314</timestamp>
-        <reason>Other - For fire gloves</reason>
     </historyentry>
 </dkphistory>
