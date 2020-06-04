@@ -1,5 +1,41 @@
 <dkphistory>
     <historyentry>
+        <playerstring>Zquish,Kattbussen,Koffkoff,Wanda,Milkytea,</playerstring>
+        <dkp>10</dkp>
+        <timestamp>1591213525</timestamp>
+        <reason>Onyxia's Lair: Onyxia</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Rewrench,</playerstring>
+        <dkp>-11</dkp>
+        <timestamp>1591213518</timestamp>
+        <reason>Other - Wrong DKP on bracers</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Xarxasas,Kernow,Compulsive,Zentar,Matska,Lools,Kronan,Jubjob,Antiel,Arcere,Howzít,Ninex,Ember,Köttspöket,Hym,Juggins,Stains,Stealtystabb,Slashylarry,Spaktula,Hadeen,Gurbak,Kittara,Dengur,Rewrench,Mezah,Ponin,Murklar,Köf,Wintermute,Kromlok,Seradan,Loren,Baloosan,Azarock,Scronk,Muggins,</playerstring>
+        <dkp>10</dkp>
+        <timestamp>1591213446</timestamp>
+        <reason>Onyxia's Lair: Onyxia</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Milkytea,</playerstring>
+        <dkp>-1</dkp>
+        <timestamp>1591213415</timestamp>
+        <reason>Other - Onyxia head on alt</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Xarxasas,Kernow,Compulsive,Zentar,Matska,Lools,Kronan,Jubjob,Antiel,Arcere,Howzít,Ninex,Ember,Köttspöket,Hym,Juggins,Stains,Stealtystabb,Slashylarry,Spaktula,Hadeen,Gurbak,Kittara,Dengur,Rewrench,Mezah,Ponin,Murklar,Köf,Wintermute,Kromlok,Seradan,Loren,Baloosan,Azarock,Scronk,Muggins,</playerstring>
+        <dkp>-10</dkp>
+        <timestamp>1591213346</timestamp>
+        <reason>Correcting Error</reason>
+    </historyentry>
+    <historyentry>
+        <playerstring>Xarxasas,Kernow,Compulsive,Zentar,Matska,Lools,Kronan,Jubjob,Antiel,Arcere,Howzít,Ninex,Ember,Köttspöket,Hym,Juggins,Stains,Stealtystabb,Slashylarry,Spaktula,Hadeen,Gurbak,Kittara,Dengur,Rewrench,Mezah,Ponin,Murklar,Köf,Wintermute,Kromlok,Seradan,Loren,Baloosan,Azarock,Scronk,Muggins,</playerstring>
+        <dkp>10</dkp>
+        <timestamp>1591213106</timestamp>
+        <reason>Raid Completion Bonus</reason>
+    </historyentry>
+    <historyentry>
         <playerstring>Zquish,</playerstring>
         <dkp>5</dkp>
         <timestamp>1591036915</timestamp>
@@ -1161,42 +1197,6 @@
         <playerstring>Xarxasas,Mjölkbudet,Snusse,Compulsive,Caato,Wanda,Milkytea,Lools,Antiel,Kronan,Aradia,Koffkoff,Scroggleton,Köttspöket,Ninex,Hym,Kàl,Juggins,Kattbussen,Briter,Hadeen,Ariena,Kittara,Rewrench,Murklar,Korvgrefven,Mezah,Wintermute,Valjah,Azarock,Brianshaw,Muggins,Kalaspuffen,Seradan,Kromlok,Dusthoof,</playerstring>
         <dkp>10</dkp>
         <timestamp>1579122617</timestamp>
-        <reason>Raid Completion Bonus</reason>
-    </historyentry>
-    <historyentry>
-        <playerstring>Tnem,</playerstring>
-        <dkp>-1</dkp>
-        <timestamp>1579122478</timestamp>
-        <reason>Other - Eskhandars Collar</reason>
-    </historyentry>
-    <historyentry>
-        <playerstring>Scroggleton,</playerstring>
-        <dkp>3</dkp>
-        <timestamp>1579121157</timestamp>
-        <reason>Correcting Error</reason>
-    </historyentry>
-    <historyentry>
-        <playerstring>Snusse,</playerstring>
-        <dkp>-12</dkp>
-        <timestamp>1579120981</timestamp>
-        <reason>Correcting Error</reason>
-    </historyentry>
-    <historyentry>
-        <playerstring>Wintermute,</playerstring>
-        <dkp>-1</dkp>
-        <timestamp>1579120401</timestamp>
-        <reason>Other - Fireguard Shoulders</reason>
-    </historyentry>
-    <historyentry>
-        <playerstring>Antiel,Aradia,Ariena,Awesomesauce,Azarock,Brianshaw,Briter,Caato,Compulsive,Deadrunner,Dusthoof,Elreyamorim,Ember,Guangzhou,Hadeen,Howzìt,Hym,Jetixx,Jezzlerozzle,Juggins,Kalaspuffen,Kattbussen,Kittara,Koffkoff,Korvgrefven,Kromlok,Kronan,Kàl,Köttspöket,Lools,Mezah,Milkytea,Mjölkbudet,Muggins,Murklar,Necrohunter,Neferhetepes,Ninex,Nsage,Placeboo,Ponin,Rewrench,Scroggleton,Seradan,Snusse,Talanah,Tnem,Triox,Valjah,Wanda,Warlicknight,Wintermute,Xarxasas,Zquish,</playerstring>
-        <dkp>-2,-5,-4,-3,-6,-6,-2,-2,-3,-2,-5,-1,-5,-1,-2,-4,-4,-1,-5,-4,-6,-4,-2,-7,-2,-1,-3,-7,-1,-5,-3,-2,-6,-2,-5,-2,-2,-6,-0,-0,-4,-6,-6,-2,-5,-1,-4,-4,-5,-4,-1,-1,-5,-3,-10%</dkp>
-        <timestamp>1578948933</timestamp>
-        <reason>Weekly Decay</reason>
-    </historyentry>
-    <historyentry>
-        <playerstring>Mjölkbudet,</playerstring>
-        <dkp>5</dkp>
-        <timestamp>1578943124</timestamp>
         <reason>Raid Completion Bonus</reason>
     </historyentry>
 </dkphistory>
