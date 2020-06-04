@@ -1,5 +1,167 @@
 <loothistory>
     <lootentry>
+        <player>Compulsive</player>
+        <itemname>Head of Nefarian</itemname>
+        <itemnumber>19002</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Nefarian</boss>
+        <timestamp>1591212293</timestamp>
+        <cost>-5</cost>
+    </lootentry>
+    <lootentry>
+        <player>Juggins</player>
+        <itemname>Boots of the Shadow Flame</itemname>
+        <itemnumber>19381</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Nefarian</boss>
+        <timestamp>1591212186</timestamp>
+        <cost>-24</cost>
+    </lootentry>
+    <lootentry>
+        <player>Rewrench</player>
+        <itemname>Cloak of the Brood Lord</itemname>
+        <itemnumber>19378</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Nefarian</boss>
+        <timestamp>1591212130</timestamp>
+        <cost>-7</cost>
+    </lootentry>
+    <lootentry>
+        <player>Ember</player>
+        <itemname>Robes of Transcendence</itemname>
+        <itemnumber>16923</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Nefarian</boss>
+        <timestamp>1591212080</timestamp>
+        <cost>-21</cost>
+    </lootentry>
+    <lootentry>
+        <player>Dengur</player>
+        <itemname>Breastplate of Ten Storms</itemname>
+        <itemnumber>16950</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Nefarian</boss>
+        <timestamp>1591212018</timestamp>
+        <cost>-2</cost>
+    </lootentry>
+    <lootentry>
+        <player>Ember</player>
+        <itemname>Shimmering Geta</itemname>
+        <itemnumber>19391</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Nefarian</boss>
+        <timestamp>1591211961</timestamp>
+        <cost>-1</cost>
+    </lootentry>
+    <lootentry>
+        <player>Howzít</player>
+        <itemname>Empowered Leggings</itemname>
+        <itemnumber>19385</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Nefarian</boss>
+        <timestamp>1591211906</timestamp>
+        <cost>-15</cost>
+    </lootentry>
+    <lootentry>
+        <player>Stealtystabb</player>
+        <itemname>Bloodfang Spaulders</itemname>
+        <itemnumber>16832</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Chromaggus</boss>
+        <timestamp>1591211308</timestamp>
+        <cost>-5</cost>
+    </lootentry>
+    <lootentry>
+        <player>Scronk</player>
+        <itemname>Styleen's Impeding Scarab</itemname>
+        <itemnumber>19431</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Flamegor</boss>
+        <timestamp>1591210796</timestamp>
+        <cost>-1</cost>
+    </lootentry>
+    <lootentry>
+        <player>Zentar</player>
+        <itemname>Dragonstalker's Gauntlets</itemname>
+        <itemnumber>16940</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Flamegor</boss>
+        <timestamp>1591210734</timestamp>
+        <cost>-1</cost>
+    </lootentry>
+    <lootentry>
+        <player>Kernow</player>
+        <itemname>Stormrage Handguards</itemname>
+        <itemnumber>16899</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Firemaw</boss>
+        <timestamp>1591209741</timestamp>
+        <cost>-1</cost>
+    </lootentry>
+    <lootentry>
+        <player>Dengur</player>
+        <itemname>Natural Alignment Crystal</itemname>
+        <itemnumber>19344</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Firemaw</boss>
+        <timestamp>1591209688</timestamp>
+        <cost>-3</cost>
+    </lootentry>
+    <lootentry>
+        <player>Compulsive</player>
+        <itemname>Dragonstalker's Greaves</itemname>
+        <itemnumber>16941</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Broodlord Lashlayer</boss>
+        <timestamp>1591209299</timestamp>
+        <cost>-30</cost>
+    </lootentry>
+    <lootentry>
+        <player>Milkytea</player>
+        <itemname>Netherwind Boots</itemname>
+        <itemnumber>16912</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Broodlord Lashlayer</boss>
+        <timestamp>1591209224</timestamp>
+        <cost>-1</cost>
+    </lootentry>
+    <lootentry>
+        <player>Koffkoff</player>
+        <itemname>Belt of Transcendence</itemname>
+        <itemnumber>16925</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Vaelastrasz the Corrupt</boss>
+        <timestamp>1591208813</timestamp>
+        <cost>-1</cost>
+    </lootentry>
+    <lootentry>
+        <player>Gurbak</player>
+        <itemname>Red Dragonscale Protector</itemname>
+        <itemnumber>19348</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Vaelastrasz the Corrupt</boss>
+        <timestamp>1591208710</timestamp>
+        <cost>-14</cost>
+    </lootentry>
+    <lootentry>
+        <player>Slashylarry</player>
+        <itemname>Bloodfang Bracers</itemname>
+        <itemnumber>16911</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Vaelastrasz the Corrupt</boss>
+        <timestamp>1591208609</timestamp>
+        <cost>-20</cost>
+    </lootentry>
+    <lootentry>
+        <player>Rewrench</player>
+        <itemname>Nemesis Bracers</itemname>
+        <itemnumber>16934</itemnumber>
+        <zone>Blackwing Lair</zone>
+        <boss>Vaelastrasz the Corrupt</boss>
+        <timestamp>1591208380</timestamp>
+        <cost>-1</cost>
+    </lootentry>
+    <lootentry>
         <player>Ember</player>
         <itemname>Head of Onyxia</itemname>
         <itemnumber>18422</itemnumber>
@@ -1636,167 +1798,5 @@
         <boss>Magmadar</boss>
         <timestamp>1588011420</timestamp>
         <cost>-25</cost>
-    </lootentry>
-    <lootentry>
-        <player>Zquish</player>
-        <itemname>Head of Nefarian</itemname>
-        <itemnumber>19002</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Nefarian</boss>
-        <timestamp>1587586174</timestamp>
-        <cost>-10</cost>
-    </lootentry>
-    <lootentry>
-        <player>Ariena</player>
-        <itemname>Breastplate of Ten Storms</itemname>
-        <itemnumber>16950</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Nefarian</boss>
-        <timestamp>1587586100</timestamp>
-        <cost>-5</cost>
-    </lootentry>
-    <lootentry>
-        <player>Arcere</player>
-        <itemname>Cloak of the Brood Lord</itemname>
-        <itemnumber>19378</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Nefarian</boss>
-        <timestamp>1587586053</timestamp>
-        <cost>-11</cost>
-    </lootentry>
-    <lootentry>
-        <player>Xarxasas</player>
-        <itemname>Taut Dragonhide Shoulderpads</itemname>
-        <itemnumber>19389</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Chromaggus</boss>
-        <timestamp>1587585478</timestamp>
-        <cost>-40</cost>
-    </lootentry>
-    <lootentry>
-        <player>Kittara</player>
-        <itemname>Epaulets of Ten Storms</itemname>
-        <itemnumber>16945</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Chromaggus</boss>
-        <timestamp>1587585429</timestamp>
-        <cost>-8</cost>
-    </lootentry>
-    <lootentry>
-        <player>Arcere</player>
-        <itemname>Netherwind Mantle</itemname>
-        <itemnumber>16917</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Chromaggus</boss>
-        <timestamp>1587585383</timestamp>
-        <cost>-15</cost>
-    </lootentry>
-    <lootentry>
-        <player>Zquish</player>
-        <itemname>Styleen's Impeding Scarab</itemname>
-        <itemnumber>19431</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Flamegor</boss>
-        <timestamp>1587584979</timestamp>
-        <cost>-1</cost>
-    </lootentry>
-    <lootentry>
-        <player>Hadeen</player>
-        <itemname>Ring of Blackrock</itemname>
-        <itemnumber>19397</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Flamegor</boss>
-        <timestamp>1587584915</timestamp>
-        <cost>-1</cost>
-    </lootentry>
-    <lootentry>
-        <player>Muggins</player>
-        <itemname>Drake Talon Pauldrons</itemname>
-        <itemnumber>19394</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Flamegor</boss>
-        <timestamp>1587584728</timestamp>
-        <cost>-18</cost>
-    </lootentry>
-    <lootentry>
-        <player>Kalaspuffen</player>
-        <itemname>Malfurion's Blessed Bulwark</itemname>
-        <itemnumber>19405</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Ebonroc</boss>
-        <timestamp>1587584529</timestamp>
-        <cost>-3</cost>
-    </lootentry>
-    <lootentry>
-        <player>Kittara</player>
-        <itemname>Primalist's Linked Legguards</itemname>
-        <itemnumber>19401</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Firemaw</boss>
-        <timestamp>1587582981</timestamp>
-        <cost>-1</cost>
-    </lootentry>
-    <lootentry>
-        <player>Koffkoff</player>
-        <itemname>Rejuvenating Gem</itemname>
-        <itemnumber>19395</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Firemaw</boss>
-        <timestamp>1587582925</timestamp>
-        <cost>-79</cost>
-    </lootentry>
-    <lootentry>
-        <player>Kernow</player>
-        <itemname>Stormrage Boots</itemname>
-        <itemnumber>16898</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Broodlord Lashlayer</boss>
-        <timestamp>1587582110</timestamp>
-        <cost>-2</cost>
-    </lootentry>
-    <lootentry>
-        <player>Antiel</player>
-        <itemname>Netherwind Boots</itemname>
-        <itemnumber>16912</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Broodlord Lashlayer</boss>
-        <timestamp>1587582072</timestamp>
-        <cost>-2</cost>
-    </lootentry>
-    <lootentry>
-        <player>Seradan</player>
-        <itemname>Cloak of Draconic Might</itemname>
-        <itemnumber>19436</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Vaelastrasz the Corrupt</boss>
-        <timestamp>1587581227</timestamp>
-        <cost>-10</cost>
-    </lootentry>
-    <lootentry>
-        <player>Kernow</player>
-        <itemname>Rune of Metamorphosis</itemname>
-        <itemnumber>19340</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Vaelastrasz the Corrupt</boss>
-        <timestamp>1587580929</timestamp>
-        <cost>-1</cost>
-    </lootentry>
-    <lootentry>
-        <player>Kittara</player>
-        <itemname>Belt of Ten Storms</itemname>
-        <itemnumber>16944</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Vaelastrasz the Corrupt</boss>
-        <timestamp>1587580870</timestamp>
-        <cost>-3</cost>
-    </lootentry>
-    <lootentry>
-        <player>Fisalisa</player>
-        <itemname>Belt of Transcendence</itemname>
-        <itemnumber>16925</itemnumber>
-        <zone>Blackwing Lair</zone>
-        <boss>Vaelastrasz the Corrupt</boss>
-        <timestamp>1587580812</timestamp>
-        <cost>-20</cost>
     </lootentry>
 </loothistory>
